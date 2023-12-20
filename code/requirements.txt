@@ -1,0 +1,9 @@
+
+def remove_same_sentences(sentences):
+    unique_sentences = set()
+    new_sentences = []
+    for sentence in sentences:
+        if sentence not in unique_sentences:
+            unique_sentences.add(sentence)
+            new_sentences.append(sentence)
+    return new_sentences
