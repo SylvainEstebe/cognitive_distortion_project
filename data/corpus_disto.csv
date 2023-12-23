@@ -1,0 +1,923 @@
+,thought,original_label,cleaned_thought
+0,"Someone I trusted stole something valuable of mine, I was extremely angry and wanted justice",emotional reasoning,someone trusted stole something valuable mine extremely angry wanted justice
+1,She doesn't respect me.,overgeneralizing,doesnt respect
+2,My friend is ignoring his recently-deceased wife.,disqualifying the positive,friend ignoring recentlydeceased wife
+3,he took me for granted!,"labeling,catastrophizing",took granted
+4,We will not be able to complete the work that needs to be done,catastrophizing,able complete work need done
+5,I failed our company & myself,personalizing,failed company
+6,Am I not explaining the material well?,"all-or-nothing thinking,personalizing",explaining material well
+7,We won't be able to find the store before it closes.,"fortune telling,all-or-nothing thinking,emotional reasoning,catastrophizing",wont able find store close
+8,He doesn't love me.,overgeneralizing,doesnt love
+9,Suicidal thoughts,emotional reasoning,suicidal thought
+10,I'm not smart enough to succeed at mturk,"all-or-nothing thinking,labeling,overgeneralizing,fortune telling,personalizing",im smart enough succeed mturk
+11,My mother in law thinks I am an incompetent father.,"mind reading,negative feeling or emotion,all-or-nothing thinking,labeling,personalizing",mother law think incompetent father
+12,I thought I was being taken advantage of.,"labeling,emotional reasoning",thought taken advantage
+13,I can't and never will escape this prison at my moms house,negative feeling or emotion,cant never escape prison mom house
+14,I'm not who I want to be. I hate my appearance and my voice.,labeling,im want hate appearance voice
+15,I am scared of my future life and being in sorrow of breakup and didn't feel light of overthinking,emotional reasoning,scared future life sorrow breakup didnt feel light overthinking
+16,"If I don't sleep well one night due to panic attack, then I it will only get worse",fortune telling,dont sleep well one night due panic attack get worse
+17,I'm a failure,disqualifying the positive,im failure
+18,I am a hard person to love,labeling,hard person love
+19,Someone please kill me,negative feeling or emotion,someone please kill
+20,I hate everyone,negative feeling or emotion,hate everyone
+21,I can't pay my bills.,negative feeling or emotion,cant pay bill
+22,I'll screw it over,fortune telling,ill screw
+23,"I was searching my brain to figure out why she didn't like me, and it made me so sad to think I'd hurt her feelings or caused a problem for her.",negative feeling or emotion,searching brain figure didnt like made sad think id hurt feeling caused problem
+24,Fuck you,negative feeling or emotion,fuck
+25,I will get a bad grade.,"fortune telling,catastrophizing,all-or-nothing thinking",get bad grade
+26,Everything driving me nuts...,blaming,everything driving nut
+27,I hate myself,all-or-nothing thinking,hate
+28,Can not move have so much to do mind numb,negative feeling or emotion,move much mind numb
+29,I am being annoying.,emotional reasoning,annoying
+30,I'm not attractive or have a good enough personality.,"labeling,negative feeling or emotion,mind reading,personalizing",im attractive good enough personality
+31,im unlovable,labeling,im unlovable
+32,I don't have the discipline to diet.,all-or-nothing thinking,dont discipline diet
+33,He does not appreciate anything I do for him.,"overgeneralizing,all-or-nothing thinking,blaming",appreciate anything
+34,I'm wasting all my time,all-or-nothing thinking,im wasting time
+35,A good mother spends time with her kids on some activity every night,overgeneralizing,good mother spends time kid activity every night
+36,Self worth,comparing and despairing,self worth
+37,I should have never worn these jeans and stick to blue ones,should statements,never worn jean stick blue one
+38,I am not good enough for anyone.,"labeling,all-or-nothing thinking",good enough anyone
+39,I thought that I should have studied harder. If I knew enough information I would pass no matter how the standards changed. It was my fault I didn't try hard enough and was furious with myself,"blaming,should statements",thought studied harder knew enough information would pas matter standard changed fault didnt try hard enough furious
+40,"I felt as if my talents and efforts were being unrecognized by the company yet they are perfectly happy to accept all of my hard work, just not pay me what I deserve for it.",disqualifying the positive,felt talent effort unrecognized company yet perfectly happy accept hard work pay deserve
+41,I won't find someone I can be with,"catastrophizing,all-or-nothing thinking",wont find someone
+42,I'm not good enough for her.,"negative feeling or emotion,emotional reasoning",im good enough
+43,She doesn't love me like she used to.,"personalizing,labeling",doesnt love like used
+44,He is selfish,labeling,selfish
+45,My grades are important and I did poorly,disqualifying the positive,grade important poorly
+46,I should have been perfect,should statements,perfect
+47,She will never love me now,"fortune telling,catastrophizing,mind reading",never love
+48,Maybe she doesn't want to talk to me anymore.,"mind reading,fortune telling",maybe doesnt want talk anymore
+49,Maybe she doesn't really like me as much as I thought and like her. Maybe I'm awkward.,mind reading,maybe doesnt really like much thought like maybe im awkward
+50,My marriage is over.,catastrophizing,marriage
+51,I am a problem.,labeling,problem
+52,I'm worthless,all-or-nothing thinking,im worthless
+53,i have no stable identity and I dont know why or if its normal,overgeneralizing,stable identity dont know normal
+54,Why isn't this kid applying himself?,all-or-nothing thinking,isnt kid applying
+55,My coworkers are making fun of me now,"mind reading,negative feeling or emotion,catastrophizing",coworkers making fun
+56,He shouldn't have taken it without asking me first.,blaming,shouldnt taken without asking first
+57,I'm incompetent,labeling,im incompetent
+58,I am a bad writer.,all-or-nothing thinking,bad writer
+59,Don't feel like I deserve fun/enjoyment,all-or-nothing thinking,dont feel like deserve funenjoyment
+60,They hate me.,"mind reading,negative feeling or emotion,fortune telling,magnification",hate
+61,Getting abused was my fault,disqualifying the positive,getting abused fault
+62,I didn't do as good a job as I thought,disqualifying the positive,didnt good job thought
+63,I felt like a failure and am ashamed I made this mistake,"all-or-nothing thinking,negative feeling or emotion",felt like failure ashamed made mistake
+64,Nobody cares what I have to say,overgeneralizing,nobody care say
+65,I am a burden.,labeling,burden
+66,I'll never be able to do anything,disqualifying the positive,ill never able anything
+67,I am failing as a parent,"labeling,personalizing,catastrophizing",failing parent
+68,I won't get paid,"fortune telling,catastrophizing,negative feeling or emotion",wont get paid
+69,I forgot something important. Again. My boss is going to kill me.,"catastrophizing,fortune telling",forgot something important bos going kill
+70,I feel like a failure,labeling,feel like failure
+71,why can't I ever get anything I want,all-or-nothing thinking,cant ever get anything want
+72,I'm not succeeding,all-or-nothing thinking,im succeeding
+73,I feel like I need to die to be happy.,disqualifying the positive,feel like need die happy
+74,i am a terrible mom,negative feeling or emotion,terrible mom
+75,I am responsible for her mistakes.,blaming,responsible mistake
+76,Why did I overact like this,catastrophizing,overact like
+77,He's so damn inconsiderate,labeling,he damn inconsiderate
+78,I messed up big time.,catastrophizing,messed big time
+79,I wasn't valued as much as the other person.,personalizing,wasnt valued much person
+80,they should have reminded me before I forgot,should statements,reminded forgot
+81,I am the cause of the breakup,personalizing,cause breakup
+82,There was no need to even say anything it was very minor.,"magnification,negative feeling or emotion",need even say anything minor
+83,I worried that she might break up with me and that I'd never see her again.,"catastrophizing,overgeneralizing,fortune telling,negative feeling or emotion,all-or-nothing thinking,mind reading",worried might break id never see
+84,I'm being mean to someone I love,labeling,im mean someone love
+85,I could have done so much better,"personalizing,all-or-nothing thinking",could done much better
+86,I'm working on this as fast as I possibly can,comparing and despairing,im working fast possibly
+87,I never get to see her anymore.,disqualifying the positive,never get see anymore
+88,they don't really like me,mind reading,dont really like
+89,Something will go wrong on my flight today,fortune telling,something go wrong flight today
+90,I’ll never be able to hold a job.,catastrophizing,ill never able hold job
+91,"I really have to pass, I need to work.",negative feeling or emotion,really pas need work
+92,He is avoiding me,"mind reading,overgeneralizing,catastrophizing",avoiding
+93,I feel like a bad wife and mom,"emotional reasoning,labeling",feel like bad wife mom
+94,I should have made time for them.,mind reading,made time
+95,I am selfish,labeling,selfish
+96,They will never want to go out with me,labeling,never want go
+97,Everyone is more important than me,"comparing and despairing,disqualifying the positive",everyone important
+98,I just can't get moving,negative feeling or emotion,cant get moving
+99,I'm a failure and can't keep a sales person job.,"all-or-nothing thinking,labeling",im failure cant keep sale person job
+100,I'm everything I can and I still feel like shit,disqualifying the positive,im everything still feel like shit
+101,I am crazy.,labeling,crazy
+102,"I can never get a break. Every time I try to make a positive change in my life, something happens to ruin it.",fortune telling,never get break every time try make positive change life something happens ruin
+103,it's all my fault,all-or-nothing thinking,fault
+104,I want to die,negative feeling or emotion,want die
+105,That I'm going to fail,catastrophizing,im going fail
+106,I keep failing at this,"overgeneralizing,fortune telling,all-or-nothing thinking,negative feeling or emotion,labeling,should statements,catastrophizing,magnification",keep failing
+107,People will never perceive me as acting naturally in social situations.,"fortune telling,overgeneralizing",people never perceive acting naturally social situation
+108,I'm mad at myself for being careless,"emotional reasoning,labeling,negative feeling or emotion",im mad careless
+109,I'm scared to present in front of other people and I panic,disqualifying the positive,im scared present front people panic
+110,I made a deadline and missed it.,negative feeling or emotion,made deadline missed
+111,I screwed up again at work,"negative feeling or emotion,all-or-nothing thinking",screwed work
+112,I shouldn't have posted it,personalizing,shouldnt posted
+113,I didn't explain this right.,overgeneralizing,didnt explain right
+114,I will never get a job.,fortune telling,never get job
+115,"I should have studied harder, or more efficiently.","should statements,negative feeling or emotion",studied harder efficiently
+116,I felt that my personal self was under attack - and I needed to retaliate by denying their attack.,emotional reasoning,felt personal self attack needed retaliate denying attack
+117,My friend is going to be angry with me,mind reading,friend going angry
+118,I am not the kind of person that she would like to go out with.,"mind reading,all-or-nothing thinking",kind person would like go
+119,No one cares about me,negative feeling or emotion,one care
+120,My friend doesn't like me anymore.,mind reading,friend doesnt like anymore
+121,It must be my fault,personalizing,must fault
+122,My friends aren't interested in my game idea,"mind reading,personalizing,negative feeling or emotion,fortune telling",friend arent interested game idea
+123,I'm annoying and oversharing,"labeling,overgeneralizing,negative feeling or emotion",im annoying oversharing
+124,I cannot trust my sister anymore.,"blaming,negative feeling or emotion,overgeneralizing",cannot trust sister anymore
+125,I will never become a successful writer,fortune telling,never become successful writer
+126,I shouldn't have changed my hair,should statements,shouldnt changed hair
+127,I'm a fat ugly troll.,"labeling,comparing and despairing",im fat ugly troll
+128,I am not good at what I do.,"all-or-nothing thinking,labeling,overgeneralizing,negative feeling or emotion,mind reading,personalizing",good
+129,I am not interesting,"labeling,negative feeling or emotion,all-or-nothing thinking,personalizing",interesting
+130,I'm boring,fortune telling,im boring
+131,I have lost all hope,negative feeling or emotion,lost hope
+132,I don't deserve to get better.,disqualifying the positive,dont deserve get better
+133,My job is worthless,all-or-nothing thinking,job worthless
+134,He shouldn't assign me a task if he doesn't trust my work.,negative feeling or emotion,shouldnt assign task doesnt trust work
+135,I am not doing well enough to warrant working at this job.,all-or-nothing thinking,well enough warrant working job
+136,My opinions aren't valuable.,"disqualifying the positive,all-or-nothing thinking,negative feeling or emotion",opinion arent valuable
+137,I can't sing.,"all-or-nothing thinking,negative feeling or emotion,fortune telling,overgeneralizing,labeling",cant sing
+138,Medication can be dangerous.,all-or-nothing thinking,medication dangerous
+139,I feel my friend used me.,mind reading,feel friend used
+140,Grandma will be so angry at me,fortune telling,grandma angry
+141,My partner thinks I am lazy.,mind reading,partner think lazy
+142,I am will have to pay for this,catastrophizing,pay
+143,I could get fired.,all-or-nothing thinking,could get fired
+144,My boss must think I'm lazy.,mind reading,bos must think im lazy
+145,I should have ordered a milder dish,should statements,ordered milder dish
+146,I am not good enough.,labeling,good enough
+147,"I had the qualifications and the experience for this job, yet I was passed over for someone else who had less experience than I.",personalizing,qualification experience job yet passed someone else le experience
+148,I was angry because I was the better person for the job.,personalizing,angry better person job
+149,Why can't they cooperate on this?,"personalizing,all-or-nothing thinking,negative feeling or emotion,overgeneralizing,blaming",cant cooperate
+150,It was unfair that I was the one to get in trouble for defending a weaker person.,all-or-nothing thinking,unfair one get trouble defending weaker person
+151,He's insulting me.,"mind reading,labeling,negative feeling or emotion,all-or-nothing thinking,personalizing",he insulting
+152,My husband was being a jerk and not listening to me.,personalizing,husband jerk listening
+153,Does he not care what I am saying?,"overgeneralizing,personalizing,blaming",care saying
+154,What am I doing to deserve this?,emotional reasoning,deserve
+155,I am the worst daughter in the world.,"labeling,all-or-nothing thinking,negative feeling or emotion",worst daughter world
+156,I will be stuck in middle-management for the remainder of my career.,"catastrophizing,overgeneralizing,negative feeling or emotion",stuck middlemanagement remainder career
+157,He is going to hurt me,catastrophizing,going hurt
+158,Why are my friends treating me so harshly?,"negative feeling or emotion,blaming",friend treating harshly
+159,I don't make a memorable impression on people.,labeling,dont make memorable impression people
+160,I feel so anxious maybe I left something turned on in the kitchen,should statements,feel anxious maybe left something turned kitchen
+161,I worry too much,negative feeling or emotion,worry much
+162,The kids will never settle down.,fortune telling,kid never settle
+163,There will never be enough time to get everything done,"all-or-nothing thinking,catastrophizing,blaming",never enough time get everything done
+164,I can't be a mother,emotional reasoning,cant mother
+165,I am manipulative,labeling,manipulative
+166,I can't stop cutting myself,negative feeling or emotion,cant stop cutting
+167,"He's a nice guy, but I don't want to be friends with him any more as he's putting no effort into not being completely boring.",labeling,he nice guy dont want friend he putting effort completely boring
+168,I never do anything right,overgeneralizing,never anything right
+169,This shows what a jerk I am,labeling,show jerk
+170,I can't bring myself to be motivated.,all-or-nothing thinking,cant bring motivated
+171,I might never get hired.,catastrophizing,might never get hired
+172,I will lose my job eventually.,catastrophizing,lose job eventually
+173,Other people are probably doing it better than me.,comparing and despairing,people probably better
+174,Am I insane?,labeling,insane
+175,I'm so behind and i'm so afraid of the terrible grades I will recieve. I can't do anything right,negative feeling or emotion,im behind im afraid terrible grade recieve cant anything right
+176,I feel like I will never be loved in a romantic way because I am not very pretty,emotional reasoning,feel like never loved romantic way pretty
+177,I'm afraid she's going to die soon.,catastrophizing,im afraid shes going die soon
+178,after 30 years since I first started learning how to cook I am still ruining meals.,"disqualifying the positive,negative feeling or emotion,magnification",year since first started learning cook still ruining meal
+179,I am undesirable,"labeling,negative feeling or emotion,all-or-nothing thinking,overgeneralizing",undesirable
+180,I made my sister sad,"mind reading,personalizing,overgeneralizing",made sister sad
+181,My co-worker is better than me.,"comparing and despairing,personalizing",coworker better
+182,My parents are judging me,emotional reasoning,parent judging
+183,"what if i have nothing to say, what if we don't click anymore, what if this goes badly.",fortune telling,nothing say dont click anymore go badly
+184,I'm going to have to endure some physical and financial pain.,catastrophizing,im going endure physical financial pain
+185,I feel guilty,emotional reasoning,feel guilty
+186,I must not have been doing a good job,negative feeling or emotion,must good job
+187,This work is a failure,all-or-nothing thinking,work failure
+188,I am incapable of doing anything right.,"all-or-nothing thinking,labeling",incapable anything right
+189,I'm feeling sad,negative feeling or emotion,im feeling sad
+190,he didn't respect our initial commitment,negative feeling or emotion,didnt respect initial commitment
+191,"If I text my boyfriend too much, he will get bored of me.",fortune telling,text boyfriend much get bored
+192,I'm really bad at everything I do.,"all-or-nothing thinking,labeling",im really bad everything
+193,He doesn't think that I'm capable of watching the kids and cleaning the kitchen at the same time.,none,doesnt think im capable watching kid cleaning kitchen time
+194,I thought he was cheating on me,mind reading,thought cheating
+195,I am so angry that he is such a hypocrite. He doesn't realize he is guilty of the same things he explodes about.,negative feeling or emotion,angry hypocrite doesnt realize guilty thing explodes
+196,Never finding love,all-or-nothing thinking,never finding love
+197,Am I doing enough,"negative feeling or emotion,magnification",enough
+198,she doesnt want to share things with me,overgeneralizing,doesnt want share thing
+199,"If I cannot control her now, I have lost her perhaps forever","overgeneralizing,catastrophizing",cannot control lost perhaps forever
+200,She ruined my project,blaming,ruined project
+201,worry about a disabled family member,negative feeling or emotion,worry disabled family member
+202,I can't do anything right. I am a disappointment.,fortune telling,cant anything right disappointment
+203,I'm worried about my future,fortune telling,im worried future
+204,My partner will leave me if my depression doesn't go away soon.,fortune telling,partner leave depression doesnt go away soon
+205,I get upset when people cant keep there promises. The plans he made were not that critical. Why put me in a tough bind,"blaming,personalizing,negative feeling or emotion",get upset people cant keep promise plan made critical put tough bind
+206,He only cares about himself.,"disqualifying the positive,overgeneralizing",care
+207,I'm completely self-centered and thoughtless,all-or-nothing thinking,im completely selfcentered thoughtless
+208,I'm self-centered,labeling,im selfcentered
+209,I bet all my friends will be amazing at bowling apart from me,mind reading,bet friend amazing bowling apart
+210,My girlfriend is hiding something from me.,emotional reasoning,girlfriend hiding something
+211,This is going to cause us to break up.,catastrophizing,going cause u break
+212,My girlfriend will leave me.,"fortune telling,catastrophizing,mind reading",girlfriend leave
+213,I'm not attractive enough.,"mind reading,personalizing",im attractive enough
+214,She didn't like me anymore.,"mind reading,negative feeling or emotion,all-or-nothing thinking,overgeneralizing,labeling,fortune telling,personalizing",didnt like anymore
+215,Why can't I have fun? Why must I stay home all the time?,"overgeneralizing,personalizing",cant fun must stay home time
+216,I am scared my girlfriend is going to break up with me because I dont do much for her.,all-or-nothing thinking,scared girlfriend going break dont much
+217,I am scared something bad will happen to the people I love,"catastrophizing,fortune telling",scared something bad happen people love
+218,I'm scared of losing loved ones,catastrophizing,im scared losing loved one
+219,I've been practicing but I'm not making any progress,all-or-nothing thinking,ive practicing im making progress
+220,they are saying things in front of me that they don't want me to know or understand,"negative feeling or emotion,overgeneralizing",saying thing front dont want know understand
+221,I do so much around here and you are harping about the cutting board?,blaming,much around harping cutting board
+222,The thought that he does not care about me anymore.,"mind reading,overgeneralizing,catastrophizing",thought care anymore
+223,I don't know why I keep trying. I should just give up. Surrender. Sleep forever.,catastrophizing,dont know keep trying give surrender sleep forever
+224,My husband doesn't want to spend time with me.,"mind reading,overgeneralizing",husband doesnt want spend time
+225,"Worthlessness, abandonment, grief",negative feeling or emotion,worthlessness abandonment grief
+226,I would not find a job,disqualifying the positive,would find job
+227,What if I never see her again?,catastrophizing,never see
+228,I deserve more than the other co-worker to get more responsibilities.,personalizing,deserve coworker get responsibility
+229,frustration,disqualifying the positive,frustration
+230,They are so wrong and I'm so pissed but I know I can't prove it and they will probably win because they won't ever admit it and I have to do something right NOW! or I might lose my dogs.,catastrophizing,wrong im pissed know cant prove probably win wont ever admit something right might lose dog
+231,I did something wrong,mind reading,something wrong
+232,I wanted her to pay attention and not interrupt me.,personalizing,wanted pay attention interrupt
+233,I don’t feel like I’m worth it.,"all-or-nothing thinking,magnification",dont feel like im worth
+234,I don't matter.,"all-or-nothing thinking,labeling,negative feeling or emotion",dont matter
+235,My sister in law thinks I am worthless,"mind reading,negative feeling or emotion",sister law think worthless
+236,I hate myself and im a fat pig,comparing and despairing,hate im fat pig
+237,I was not a good enough sister,"labeling,overgeneralizing",good enough sister
+238,I'm a bad mom,labeling,im bad mom
+239,He might hit me,none,might hit
+240,I am not good enough for him.,"labeling,all-or-nothing thinking,negative feeling or emotion,overgeneralizing,mind reading,personalizing,catastrophizing",good enough
+241,"I feel horrible about it, I must be a bad parent",emotional reasoning,feel horrible must bad parent
+242,The anger I felt because some members of the family do not like me so they refused to let me know about my beloved uncle.,mind reading,anger felt member family like refused let know beloved uncle
+243,She doesn't trust me.,mind reading,doesnt trust
+244,Am I not worth her time?,all-or-nothing thinking,worth time
+245,I'm going to be alone,catastrophizing,im going alone
+246,i was letting her down and she felt pressured by my actions,mind reading,letting felt pressured action
+247,"I'm busy doing something else, it's not like I haven't tried to get to that chore!","negative feeling or emotion,emotional reasoning,blaming",im busy something else like havent tried get chore
+248,I am ugly,labeling,ugly
+249,Having done things wrong,personalizing,done thing wrong
+250,I have at least four normal days of plot work needing done in three days,"negative feeling or emotion,comparing and despairing,all-or-nothing thinking",least four normal day plot work needing done three day
+251,I'm not going to live up to my expectations for my future,catastrophizing,im going live expectation future
+252,I can't get through this,emotional reasoning,cant get
+253,I felt left out and singled out in the office and wondered if the person had a personal grudge against me.,"mind reading,personalizing",felt left singled office wondered person personal grudge
+254,I never get what I want,overgeneralizing,never get want
+255,"I felt the criticism was unfair because they didn't take into account the entire situation, especially considering how the patient was behaving towards me.",personalizing,felt criticism unfair didnt take account entire situation especially considering patient behaving towards
+256,I feel like people out there try to take advantage of me and also betray me .,mind reading,feel like people try take advantage also betray
+257,I am a bad person.,"labeling,negative feeling or emotion",bad person
+258,I might be having a serious illness,catastrophizing,might serious illness
+259,I guess he doesn't like me anymore,mind reading,guess doesnt like anymore
+260,I feel like an outcast,emotional reasoning,feel like outcast
+261,You hardly communicate what you need at all. How am I supposed to help?,"personalizing,blaming,negative feeling or emotion",hardly communicate need supposed help
+262,I hate Republicans,negative feeling or emotion,hate republican
+263,I didn't get the job,fortune telling,didnt get job
+264,I am unable to do this simply damned thing.,"all-or-nothing thinking,negative feeling or emotion,labeling",unable simply damned thing
+265,Why would you wait until the last minute to ask me this.,blaming,would wait last minute ask
+266,I feel unloved and unwanted by my mother and siblings,all-or-nothing thinking,feel unloved unwanted mother sibling
+267,"I worked hard on these jobs, and was sure I had done well.",negative feeling or emotion,worked hard job sure done well
+268,She needs to stop discussing this.,"negative feeling or emotion,blaming,mind reading",need stop discussing
+269,Does nobody want to talk to me?,"mind reading,personalizing",nobody want talk
+270,Why is it still messed up?,all-or-nothing thinking,still messed
+271,Would anyone care if I died?,overgeneralizing,would anyone care died
+272,im not very attractive,all-or-nothing thinking,im attractive
+273,I will go crazy if I don't control my racing thoughts,blaming,go crazy dont control racing thought
+274,I am a failure,negative feeling or emotion,failure
+275,I'm never going to be useful to society and it isn't worth living in because humans are extremely hard to understand,"overgeneralizing,fortune telling,negative feeling or emotion",im never going useful society isnt worth living human extremely hard understand
+276,my brother is very careless as he has the feeling that there is no one to ask him as his sister is the one who is senior,none,brother careless feeling one ask sister one senior
+277,i am not able to control my eating habits,negative feeling or emotion,able control eating habit
+278,why don't i have friends? why am i not social? SIGH!,all-or-nothing thinking,dont friend social sigh
+279,im ready to die,"emotional reasoning,disqualifying the positive",im ready die
+280,i'm not good enough,all-or-nothing thinking,im good enough
+281,i cant trust people,emotional reasoning,cant trust people
+282,I'm so exhausted,negative feeling or emotion,im exhausted
+283,ill never be able to find a good job,"fortune telling,catastrophizing",ill never able find good job
+284,I am being disrespected,"labeling,disqualifying the positive,negative feeling or emotion",disrespected
+285,maybe she doesn't like me anymore.,mind reading,maybe doesnt like anymore
+286,I'm always late , Overgeneralization,im always late
+287,I'm late for the meeting. Everyone will look down upon me , Mind reading,im late meeting everyone look upon
+288,I'm late for the meeting. This shows what a jerk I am , Labeling,im late meeting show jerk
+289,I'm late for the meeting. I'll make a fool of myself , Labeling,im late meeting ill make fool
+290,I'm late for the meeting. I never do anything right , Overgeneralization,im late meeting never anything right
+291,My tire is flat. I'm so stupid , Labeling,tire flat im stupid
+292,My tire is flat. I should have gotten a new tire last month , Should statements,tire flat gotten new tire last month
+293,My tire is flat. I must have gotten a new tire last month , Should statements,tire flat must gotten new tire last month
+294,Everyone knows how disorganized and selfish I am , Mind reading,everyone know disorganized selfish
+295,I'm completely self-centered and thoughtless , All-or-nothing thinking,im completely selfcentered thoughtless
+296,My roommate asked me to clean the apartment. She probably hates me , Mind reading,roommate asked clean apartment probably hate
+297,A good mother spends time with her kids on some activity every night , Overgeneralization,good mother spends time kid activity every night
+298,I'm a total failure , All-or-nothing thinking,im total failure
+299,I never do anything right , Overgeneralization,never anything right
+300,I always do lousy on tests , Overgeneralization,always lousy test
+301,"The test makes me nervous, so I won't do well on it ", Emotional reasoning,test make nervous wont well
+302,I'll have to skip this section of the book , Fortune telling,ill skip section book
+303,They made a terrible mistake by choosing me , Mind reading,made terrible mistake choosing
+304,My writing is too drab , Catastrophizing,writing drab
+305,They are not interesting , Labeling,interesting
+306,They are boring , Labeling,boring
+307,I know this is bad because I feel bored , Emotional reasoning,know bad feel bored
+308,This party will be a drag , Fortune telling,party drag
+309,I never get what I want , Overgeneralization,never get want
+310,I'll forget what I'm supposed to say , Fortune telling,ill forget im supposed say
+311,My speech isn't any good , All-or-nothing thinking,speech isnt good
+312,My mind will blank out , Fortune telling,mind blank
+313,I'll make a fool of myself , Labeling,ill make fool
+314,What did I do to foul things up? , Personalization,foul thing
+315,I'll never get this done , Fortune telling,ill never get done
+316,I should be well by now , Should statements,well
+317,I must be well by now , Should statements,must well
+318,I'm not getting anywhere , All-or-nothing thinking,im getting anywhere
+319,That improvement was a fluke , Disqualifying the positive,improvement fluke
+320,I'll never get better , Catastrophizing,ill never get better
+321,I just can't control myself , All-or-nothing thinking,cant control
+322,I must look like a balloon , Labeling,must look like balloon
+323,My dieting and jogging all week have gone down the drain , Disqualifying the positive,dieting jogging week gone drain
+324,I shouldn't have eaten that , Should statements,shouldnt eaten
+325,I mustn't have eaten that , Should statements,mustnt eaten
+326,I'm going to pig out all weekend , Fortune telling,im going pig weekend
+327,I'm a bad mother , Labeling,im bad mother
+328,"The recruiters didn't call me. I haven't got the job, in the past when I was successful, I was called straight away ", Overgeneralizing,recruiter didnt call havent got job past successful called straight away
+329,I will end up with no career , Catastrophizing,end career
+330,I will end up with no money , Catastrophizing,end money
+331,I haven't got the job , Fortune telling,havent got job
+332,I spent 3 hours but was only able to make 2 slides. I've wasted all that time , Disqualifying the positive,spent hour able make slide ive wasted time
+333,Looks like the customer got scared , Mind reading,look like customer got scared
+334,I have made the matters worse , Personalization,made matter worse
+335,A stranger looked at your dress. She thought that I look stupid , Mind reading,stranger looked dress thought look stupid
+336,I should have never worn these jeans , Should statements,never worn jean
+337,I must have never worn these jeans , Should statements,must never worn jean
+338,I almost failed in a subject. I have ruined everything , All-or-nothing thinking,almost failed subject ruined everything
+339,I only got good grades in two subjects. How could I have done so badly? , Disqualifying the positive,got good grade two subject could done badly
+340,I am a failure! , Labeling,failure
+341,I made a mistake in my presentation. People are going to think I am stupid , Mind reading,made mistake presentation people going think stupid
+342,I'm such an idiot , Labeling,im idiot
+343,The meal should have been perfect , Should statements,meal perfect
+344,The meal must have been perfect , Should statements,meal must perfect
+345,My friends are not replying to my messages. They obviously don't want to be friends with me , Mind reading,friend replying message obviously dont want friend
+346,My friends are not talking to me. It must be my fault , Personalization,friend talking must fault
+347,I posted a joke online but none of my friends reacted. I will lose my friends because of this , Catastrophizing,posted joke online none friend reacted lose friend
+348,"If I am feeling this guilty right now, this must mean that I did something wrong ", Emotional reasoning,feeling guilty right must mean something wrong
+349,Maybe people found my joke offensive , Mind reading,maybe people found joke offensive
+350,I shouldn't have changed my hair , Should statements,shouldnt changed hair
+351,Most of them didn't mention my hair , Catastrophizing,didnt mention hair
+352,I am a lousy writer , Labeling,lousy writer
+353,I didn't win so I must be completely rubbish , All-or-nothing thinking,didnt win must completely rubbish
+354,Being a runner up means nothing , Disqualifying the positive,runner mean nothing
+355,They probably made everyone a runner up to make people feel better , Mind reading,probably made everyone runner make people feel better
+356,I will never become a successful writer , Fortune telling,never become successful writer
+357,I am an awful person , Labeling,awful person
+358,They think that I am a horrible human being , Mind reading,think horrible human
+359,"I have lost my temper like this in the previous job and was called into a disciplinary meeting, I will probably lose my job over this ", Overgeneralization,lost temper like previous job called disciplinary meeting probably lose job
+360,I will probably lose my job over this , Fortune telling,probably lose job
+361,I feel so anxious maybe I left something turned on in the kitchen , Emotional reasoning,feel anxious maybe left something turned kitchen
+362,What if something falls on the coffee maker and turns in on , Fortune telling,something fall coffee maker turn
+363,What if the whole kitchen sets on fire , Catastrophizing,whole kitchen set fire
+364,My entire house will burn down , Catastrophizing,entire house burn
+365,I will be homeless , Catastrophizing,homeless
+366,The doctor probably just didn't want to let me know , Mind reading,doctor probably didnt want let know
+367,They want to see me so this must be really bad , Disqualifying the positive,want see must really bad
+368,"The color in their work is so much more vibrant, mine doesn't look this good ", Comparing,color work much vibrant mine doesnt look good
+369,I bet people think now that I am a rubbish artist , Mind reading,bet people think rubbish artist
+370,I shouldn't have posted it , Should statements,shouldnt posted
+371,Grandma is going to be so angry with me , Mind reading,grandma going angry
+372,She is probably going to kick me out and never invite me over again , Catastrophizing,probably going kick never invite
+373,I am such an idiot , Labeling,idiot
+374,"If I couldn't make this relationship work, I will never succeed at finding a lifelong partner ", Overgeneralization,couldnt make relationship work never succeed finding lifelong partner
+375,I am unlovable , Labeling,unlovable
+376,"If she has cheated on me, then every next girl will probably do the same ", Overgeneralization,cheated every next girl probably
+377,I can't believe I have lost her now , Disqualifying the positive,cant believe lost
+378,She will not want to see me again , Fortune telling,want see
+379,She must think that I am a weirdo , Mind reading,must think weirdo
+380,I should have ordered a milder dish , Should statements,ordered milder dish
+381,I must have ordered a milder dish , Should statements,must ordered milder dish
+382,I'm late again. My boss will be furious with me like he was last week when I was late because I overslept , Overgeneralization,im late bos furious like last week late overslept
+383,I will lose my job over this , Catastrophizing,lose job
+384,My present was much smaller in size than the others , Comparing,present much smaller size others
+385,"She said she liked it, but she said that to everyone, so she was probably just trying to be nice ", Disqualifying the positive,said liked said everyone probably trying nice
+386,I made this so awkward , Emotional reasoning,made awkward
+387,I will get murdered! , Catastrophizing,get murdered
+388,My friend had been robbed last month and they broke in through the kitchen , Overgeneralization,friend robbed last month broke kitchen
+389,Something scary is in the kitchen , Emotional reasoning,something scary kitchen
+390,"I have never done bowling before, so I will definitely be bad at this ", All-or-nothing thinking,never done bowling definitely bad
+391,Maybe they invited me to make fun of me , Mind reading,maybe invited make fun
+392,Maybe they knew that I would make a fool of myself , Mind reading,maybe knew would make fool
+393,Something bad has happened to him , Catastrophizing,something bad happened
+394,Maybe he doesn't like me anymore , Mind reading,maybe doesnt like anymore
+395,Maybe doesn't want to be my friend any longer , Mind reading,maybe doesnt want friend longer
+396,I should have messaged him earlier , Should statements,messaged earlier
+397,I must message him earlier , Should statements,must message earlier
+398,I am such a bad friend , Labeling,bad friend
+399,Her health could decline further , Fortune telling,health could decline
+400,She could die , Catastrophizing,could die
+401,I should have visited her more often , Should statements,visited often
+402,She probably thinks I am the worst grandchild ever , Mind reading,probably think worst grandchild ever
+403,I should have spent more time reading reviews before buying , Should statements,spent time reading review buying
+404,"I can return it and get a different one, but I have wasted so much time ", Disqualifying the positive,return get different one wasted much time
+405,My niece's birthday party had twice the amount of people , Comparing,niece birthday party twice amount people
+406,I bet more people will cancel , Fortune telling,bet people cancel
+407,There will be very few people there , Fortune telling,people
+408,"If there aren't many people there, the party simply can't be a success ", All-or-nothing thinking,arent many people party simply cant success
+409,"Because I lost the elections, I'm a zero ", All-or-nothing thinking,lost election im zero
+410,I got a B on my exam. I'm a total failure , All-or-nothing thinking,got b exam im total failure
+411,The birds are always crapping on my window , Overgeneralization,bird always crapping window
+412,I'm never going to get a date , Overgeneralization,im never going get date
+413,My boss complimented me but they are just being nice , Disqualifying the positive,bos complimented nice
+414,Getting good marks was a fluke. It doesn't count , Disqualifying the positive,getting good mark fluke doesnt count
+415,I made a mistake. How terrible , Catastrophizing,made mistake terrible
+416,I'm always a horrible mother , All-or-nothing thinking,im always horrible mother
+417,I'm never going to get it together , All-or-nothing thinking,im never going get together
+418,My neighbor rushed by me and didn't even acknowledge me. I must have done something wrong , Mind reading,neighbor rushed didnt even acknowledge must done something wrong
+419,"I submitted my application, but I already know they won't call me back for an interview. ", Fortune telling,submitted application already know wont call back interview
+420,Why did I use that word in that email? I'm sure I'm going to get fired , Catastrophizing,use word email im sure im going get fired
+421,"Yeah I got a raise, but it's not big deal ", Disqualifying the positive,yeah got raise big deal
+422,"I feel like crap, so I'm probably a crappy person ", Emotional reasoning,feel like crap im probably crappy person
+423,I should really exercise more , Should statements,really exercise
+424,My brother should have talked to me before he made any decisions about where our family is going , Should statements,brother talked made decision family going
+425,I'm so gross , Labeling,im gross
+426,He's so inconsiderate , Labeling,he inconsiderate
+427,I'm a huge nobody , Labeling,im huge nobody
+428,"They didn't like me, I'm unlovable ", All-or-nothing thinking,didnt like im unlovable
+429,Our relationship ended because I was a bad partner , Personalization,relationship ended bad partner
+430,Our project is slowed down because they never made a point to contact me. This is all their fault , Blaming,project slowed never made point contact fault
+431,We were late to the dinner party and caused the hostess to overcook the meal , Personalization,late dinner party caused hostess overcook meal
+432,"If I had only pushed my husband to leave on time, this wouldn't have happened ", Personalization,pushed husband leave time wouldnt happened
+433,Stop making me feel bad about myself , Blaming,stop making feel bad
+434,I shouldn't be so lazy , Should statements,shouldnt lazy
+435,"I feel it, therefore it must be true ", Emotional reasoning,feel therefore must true
+436,I'm a loser , Labeling,im loser
+437,I've blown my diet completely , All-or-nothing thinking,ive blown diet completely
+438,I feel guilty. I must be a rotten person , Emotional reasoning,feel guilty must rotten person
+439,I feel hopeless. I must be hopeless , Emotional reasoning,feel hopeless must hopeless
+440,I shouldn't eat that doughnut , Should statements,shouldnt eat doughnut
+441,He shouldn't have been so stubborn , Should statements,shouldnt stubborn
+442,I shouldn't have made so many mistakes , Should statements,shouldnt made many mistake
+443,"If only I were better in bed, he wouldn't beat me ", Personalization,better bed wouldnt beat
+444,The reason my marriage is so lousy is because my spouse is totally unreasonable , Blaming,reason marriage lousy spouse totally unreasonable
+445,I never say the right thing , Overgeneralization,never say right thing
+446,Nothing ever goes my way , Overgeneralization,nothing ever go way
+447,I felt awkward during my job interview. I am always so awkward , Overgeneralization,felt awkward job interview always awkward
+448,My mom is always upset. She would be fine if I did more to help her , Personalization,mom always upset would fine help
+449,She probably thinks I'm ugly , Mind reading,probably think im ugly
+450,"I feel like a bad friend, therefore I must be a bad friend ", Emotional reasoning,feel like bad friend therefore must bad friend
+451,I should always be friendly , Should statements,always friendly
+452,I never do a good enough job on anything , All-or-nothing thinking,never good enough job anything
+453,"I made a mistake, therefore I'm a failure ", All-or-nothing thinking,made mistake therefore im failure
+454,"I ate more than I planned, so I blew my diet completely ", All-or-nothing thinking,ate planned blew diet completely
+455,I will fail and it will be unbearable , Fortune telling,fail unbearable
+456,"I passed the exam, but I was just lucky ", Disqualifying the positive,passed exam lucky
+457,Going to college is not a big deal; anyone can do it , Disqualifying the positive,going college big deal anyone
+458,"I feel she loves me, so it must be true ", Emotional reasoning,feel love must true
+459,"I am terrified of planes, so it must be dangerous ", Emotional reasoning,terrified plane must dangerous
+460,I got a B. This proves how inferior I am , Catastrophizing,got b prof inferior
+461,I got an A. It doesn't mean I'm smart , Catastrophizing,got doesnt mean im smart
+462,He's thinking I have failed , Mind reading,he thinking failed
+463,She thought I didn't know the project , Mind reading,thought didnt know project
+464,He knows I do not like to be touched this way , Mind reading,know like touched way
+465,"Every time I take a day off from work, it rains ", Overgeneralization,every time take day work rain
+466,You only pay attention to me when I cook food , Overgeneralization,pay attention cook food
+467,My husband left me because I was a bad wife , Personalization,husband left bad wife
+468,I should have been a better mother , Should statements,better mother
+469,He should have married Ann instead of Mary , Should statements,married ann instead mary
+470,My parents are the ones to blame for my unhappiness , Blaming,parent one blame unhappiness
+471,It is my fault that my son married a selfish and uncaring person , Personalization,fault son married selfish uncaring person
+472,My father always prefers my elder brother , Comparing,father always prefers elder brother
+473,She is more successful than I am , Comparing,successful
+474,He thinks I'm an idiot , Mind reading,think im idiot
+475,"If I talk, I will mess up and not say what I mean ", Fortune telling,talk mess say mean
+476,I will never get into college , Fortune telling,never get college
+477,I'm disgusting , Labeling,im disgusting
+478,He's horrible , Labeling,he horrible
+479,She's irrelevant , Labeling,shes irrelevant
+480,"That's what I'm supposed to do, so it doesn't count ", Disqualifying the positive,thats im supposed doesnt count
+481,"Those successes were easy, so they don't matter ", Disqualifying the positive,success easy dont matter
+482,I fail all the time , Overgeneralization,fail time
+483,It was a waste of time , All-or-nothing thinking,waste time
+484,I get rejected by everyone , All-or-nothing thinking,get rejected everyone
+485,I should do well , Should statements,well
+486,My relationship ended because I wasn't fun enough , Personalization,relationship ended wasnt fun enough
+487,It was my fault my group got a bad grade , Personalization,fault group got bad grade
+488,She's to blame for the way I feel , Blaming,shes blame way feel
+489,My parents caused all my problems , Blaming,parent caused problem
+490,My teacher is the reason I'm not doing well , Blaming,teacher reason im well
+491,"I feel anxious, therefore I must be in danger ", Emotional reasoning,feel anxious therefore must danger
+492,Others did better than I did on the test , Comparing,others better test
+493,People my age are more successful than I am , Comparing,people age successful
+494,I'm unlovable. My friends hang out with me only because they must feel sorry for me , Disqualifying the positive,im unlovable friend hang must feel sorry
+495,“I'm a bad person. I only help others because it makes me feel better about myself , Disqualifying the positive,im bad person help others make feel better
+496,"I feel sad, therefore I must be depressed ", Emotional reasoning,feel sad therefore must depressed
+497,He thinks I'm a loser , Labeling,think im loser
+498,I'll fail the exam , Fortune telling,ill fail exam
+499,I won't get the job , Fortune telling,wont get job
+500,I'm undesirable , Labeling,im undesirable
+501,That's what wives are supposed to do. So it doesn't count when she's nice to me , Disqualifying the positive,thats wife supposed doesnt count shes nice
+502,I seem to fail at everything , Overgeneralization,seem fail everything
+503,The marriage ended because I failed , Personalization,marriage ended failed
+504,I did that really badly , All-or-nothing thinking,really badly
+505,Everything always goes badly for me , Overgeneralization,everything always go badly
+506,Mary doesn't like me at all , Mind reading,mary doesnt like
+507,I should have completed everything I planned to do , Should statements,completed everything planned
+508,I'm pathetic , Labeling,im pathetic
+509,That was really a terrible day , Catastrophizing,really terrible day
+510,I didn't get all my work done today again. I'll get the sack , Catastrophizing,didnt get work done today ill get sack
+511,I made a real fool of myself at that party , Labeling,made real fool party
+512,My husband didn't eat that chocolate cake I baked for him. He thinks I'm a terrible cook , Mind reading,husband didnt eat chocolate cake baked think im terrible cook
+513,That was a terrible mistake; I'll never learn to do this properly , Overgeneralization,terrible mistake ill never learn properly
+514,I must make a good impression at this party , Should statements,must make good impression party
+515,I was so irritable with the children this morning. I'm a terrible mother and a wicked person , Overgeneralization,irritable child morning im terrible mother wicked person
+516,I can't stand being alone now that Jane has gone , Disqualifying the positive,cant stand alone jane gone
+517,I must be really stupid to have these distorted thoughts , Personalization,must really stupid distorted thought
+518,Mary doesn't like me at all. She would never have shouted at me like that if she did , Personalization,mary doesnt like would never shouted like
+519,I'll never be able to face them again , Catastrophizing,ill never able face
+520,I'll never manage to stand up for myself. I never have , Catastrophizing,ill never manage stand never
+521,"If I'm not a total success, I'm a failure ", All-or-nothing thinking,im total success im failure
+522,"I'll be so upset, I won't be able to function at all ", Catastrophizing,ill upset wont able function
+523,"I did that project well, but that doesn't mean I'm competent; I just got lucky ", Disqualifying the positive,project well doesnt mean im competent got lucky
+524,Getting a mediocre evaluation proves how inadequate I am , Catastrophizing,getting mediocre evaluation prof inadequate
+525,Getting high marks doesn't mean I am smart , Disqualifying the positive,getting high mark doesnt mean smart
+526,I was so uncomfortable talking to this person. I don't have what it takes to make friends , Overgeneralization,uncomfortable talking person dont take make friend
+527,The repairman was curt to me because I did something wrong , Personalization,repairman curt something wrong
+528,I should always do my best , Should statements,always best
+529,My son's teacher cannot do anything right , Blaming,son teacher cannot anything right
+530,"If I did not have friends, I would be lonely ", All-or-nothing thinking,friend would lonely
+531,going to fail at my interview , Fortune telling,going fail interview
+532,i'm worried that i won't develop better discipline , Fortune telling,im worried wont develop better discipline
+533,what if we never get engaged , Overgeneralization,never get engaged
+534,i'll never lose enough weight to look skinny , Fortune telling,ill never lose enough weight look skinny
+535,"i'm so weak, helpless and out of control ", Labeling,im weak helpless control
+536,i'm going to be lonely forever , Overgeneralization,im going lonely forever
+537,my parents don't love me and they never will , Overgeneralization,parent dont love never
+538,"if i can't pass in college, i can't get a good job, or a good life ", All-or-nothing thinking,cant pas college cant get good job good life
+539,that i am alone and always will be , Overgeneralization,alone always
+540,i am unwanted , Labeling,unwanted
+541,not being smart enough , All-or-nothing thinking,smart enough
+542,lack of sexual interest from my significant other , Blaming,lack sexual interest significant
+543,i hate to be told anything , Overgeneralization,hate told anything
+544,what if i stop breathing for no reason? , Catastrophizing,stop breathing reason
+545,what if I die , Catastrophizing,die
+546,I will die , Catastrophizing,die
+547,someday i'll stop trying , Catastrophizing,someday ill stop trying
+548,feeling unworthy , Labeling,feeling unworthy
+549,i'm never going to live a normal life , Overgeneralization,im never going live normal life
+550,about my boyfriend if he's cheating on me again , Mind reading,boyfriend he cheating
+551,the worthlessness of life , Disqualifying the positive,worthlessness life
+552,"everyone hates me, including me ", Overgeneralization,everyone hate including
+553,i should be sleeping , Should statements,sleeping
+554,afraid something i did will hurt me , Fortune telling,afraid something hurt
+555,i overthink the worst possibility to happen , Catastrophizing,overthink worst possibility happen
+556,i can't ever relax , Overgeneralization,cant ever relax
+557,always going to be lonely , Overgeneralization,always going lonely
+558,i dont have a full purpose , All-or-nothing thinking,dont full purpose
+559,I don't have enough willpower , Overgeneralization,dont enough willpower
+560,I might lose my job , Catastrophizing,might lose job
+561,I am not a good person in society , Labeling,good person society
+562,This person is not my boss and is not even providing accurate information! Why are they acting like this? , Mind reading,person bos even providing accurate information acting like
+563,Because other did better than me , Comparing,better
+564,I should have behaved differently , Should statements,behaved differently
+565,I don't think I can get all my work done today , Fortune telling,dont think get work done today
+566,I could get fired , Catastrophizing,could get fired
+567,She doesn't like the way I look , Mind reading,doesnt like way look
+568,"My girlfriend wasnt texting anyone, and did not get me anniversary present I am scared my girlfriend is going to break up with me because I dont do much for her. ", Catastrophizing,girlfriend wasnt texting anyone get anniversary present scared girlfriend going break dont much
+569,I am unable to give my children any time A good mother spends time with her kids on some activity every night , Overgeneralizing,unable give child time good mother spends time kid activity every night
+570,Would my death have an impact on people? Like is there anyone on here that's had someone close to them commit suicide and knows what it's like? Would anyone care if I died? , Overgeneralizing,would death impact people like anyone thats someone close commit suicide know like would anyone care died
+571,Stomach ache every day I might be having a serious illness , Catastrophizing,stomach ache every day might serious illness
+572,My son threw a tantrum at an indoor playground and I had to carry him out kicking and screaming I'm a bad mom , Labeling,son threw tantrum indoor playground carry kicking screaming im bad mom
+573,im scared of the human mind i cant trust people , Emotional reasoning,im scared human mind cant trust people
+574,Being transgender I'm not who I want to be. I hate my appearance and my voice. , Catastrophizing,transgender im want hate appearance voice
+575,I made very good English presentation but I got nervous because of the amount of people and I forgot my text I'm scared to present in front of other people and I panic , Catastrophizing,made good english presentation got nervous amount people forgot text im scared present front people panic
+576,"i still can't speak or understand korean, even after 6 months here i'm not good enough ", Overgeneralizing,still cant speak understand korean even month im good enough
+577,My manager is giving more responsibilities to another co-worker. I deserve more than the other co-worker to get more responsibilities. , Personalizing,manager giving responsibility another coworker deserve coworker get responsibility
+578,My husband did something for me even if it's clear I didn't want it. I don't know why I keep trying. I should just give up. Surrender. Sleep forever. , Catastrophizing,husband something even clear didnt want dont know keep trying give surrender sleep forever
+579,I get so annoyed and frustrated when my baby cries i am a terrible mom , Negative feeling or emotion,get annoyed frustrated baby cry terrible mom
+580,Breakup after loving truly. I am scared of my future life and being in sorrow of breakup and didn't feel light of overthinking , Emotional reasoning,breakup loving truly scared future life sorrow breakup didnt feel light overthinking
+581,My wife has left me. I'm going to be alone , Catastrophizing,wife left im going alone
+582,I applied for a job and just got a call saying I didn't get the job. I am not good enough for anyone. , Labeling,applied job got call saying didnt get job good enough anyone
+583,I'm late for the meeting This shows what a jerk I am , Labeling,im late meeting show jerk
+584,I had a complaint against my work which I felt unnecessary to bring to my attention as it was very minor. There was no need to even say anything it was very minor. , Catastrophizing,complaint work felt unnecessary bring attention minor need even say anything minor
+585,I was on a date and started to cough badly as the food was too hot I should have ordered a milder dish , Should statements,date started cough badly food hot ordered milder dish
+586,My first boyfriend and I broke up. My partner will leave me if my depression doesn't go away soon. , Fortune telling,first boyfriend broke partner leave depression doesnt go away soon
+587,A potential client decided to work with another company I failed our company & myself , Personalizing,potential client decided work another company failed company
+588,"I had a disagreement about our finances with my partner at our home about a week ago that caused her to leave the apartment and not talk, call, or text me for hours. I worried that she might break up with me and that I'd never see her again. ", Catastrophizing,disagreement finance partner home week ago caused leave apartment talk call text hour worried might break id never see
+589,I am trying to write up an essay and can't think of anything I'm wasting all my time , All-or-nothing thinking,trying write essay cant think anything im wasting time
+590,"I posted a joke online and none of my friends reacted Maybe my friends found the joke offensive, I'll lose some friends because of this ", Catastrophizing,posted joke online none friend reacted maybe friend found joke offensive ill lose friend
+591,I have a flight in the evening Something will go wrong on my flight today , Fortune telling,flight evening something go wrong flight today
+592,"I had a fight with my husband My best friend doesn't fight with my husband this much, so I must be doing something wrong ", Comparing and Despairing,fight husband best friend doesnt fight husband much must something wrong
+593,I do gas stations audits and I messed up and forgot something I was supposed to do I felt like a failure and am ashamed I made this mistake , All-or-nothing thinking,gas station audit messed forgot something supposed felt like failure ashamed made mistake
+594,My diet is not working I feel like a failure , Emotional reasoning,diet working feel like failure
+595,I was unable to visit my Mother in the hospital in another state. I am the worst daughter in the world. , Labeling,unable visit mother hospital another state worst daughter world
+596,I'm late for the meeting I never do anything right , Overgeneralizing,im late meeting never anything right
+597,I ask out a co-worker who I became fond of recently but was turned down. I'm not good enough for her. , Negative feeling or emotion,ask coworker became fond recently turned im good enough
+598,I was on a coffee break and my boss reminded me of work that needs to get done. My boss must think I'm lazy. , Mind reading,coffee break bos reminded work need get done bos must think im lazy
+599,A neighbor borrowed my smartphone charger and never returned it. he took me for granted! , Personalizing,neighbor borrowed smartphone charger never returned took granted
+600,My husband could not understand why I was upset with him. I don't understand why he can't see that he overreacted. , All-or-nothing thinking,husband could understand upset dont understand cant see overreacted
+601,"After I complained about not spending time together, my boyfriend did not want to go on a date last weekend. He doesn't love me. ", Overgeneralizing,complained spending time together boyfriend want go date last weekend doesnt love
+602,"I'm hanging out with a friend chit chatting, but realizing he's not putting much effort, like usual, into having good conversation.  He just repeats the same thing ad nauseam. He's a nice guy, but I don't want to be friends with him any more as he's putting no effort into not being completely boring. ", Labeling,im hanging friend chit chatting realizing he putting much effort like usual good conversation repeat thing ad nauseam he nice guy dont want friend he putting effort completely boring
+603,"Time is running short on the workday, my boss asks me if I can finish a task that will require me to stay for a few extra hours. Why would you wait until the last minute to ask me this. ", Catastrophizing,time running short workday bos asks finish task require stay extra hour would wait last minute ask
+604,I saw my friend comment on an Instagram post when he's been ignoring me. My friend doesn't like me anymore. , Personalizing,saw friend comment instagram post he ignoring friend doesnt like anymore
+605,I missed a personal deadline for a project a friend asked me to help with. I made a deadline and missed it. , Negative feeling or emotion,missed personal deadline project friend asked help made deadline missed
+606,My mom cooked me breakfast and the eggs which she knows i like over medium were over cooked. I became very upset. frustration , Disqualifying the Positive,mom cooked breakfast egg know like medium cooked became upset frustration
+607,My friend and I had made plans months ago to go to a basketball game. The day before the game he calls me and says he cant go because he forgot he made plans with his wife. I started yelling at him and told him these tickets were expensive and you promised me. I was really angry for cancelling last minute because he has done this in the past I get upset when people cant keep there promises. The plans he made were not that critical. Why put me in a tough bind , Blaming,friend made plan month ago go basketball game day game call say cant go forgot made plan wife started yelling told ticket expensive promised really angry cancelling last minute done past get upset people cant keep promise plan made critical put tough bind
+608,My grandma died a few years ago and my aunt recently had major surgery. I'm scared of losing loved ones , Catastrophizing,grandma died year ago aunt recently major surgery im scared losing loved one
+609,I'm afraid of pregnancy and I think i'm not mentally or emotionally prepared I can't be a mother , Emotional reasoning,im afraid pregnancy think im mentally emotionally prepared cant mother
+610,I saw a profile picture of a close friend on a dating app that I had feelings for. I am not the kind of person that she would like to go out with. , Mind reading,saw profile picture close friend dating app feeling kind person would like go
+611,I am trying to diet but I gained weight this week. I don't have the discipline to diet. , Catastrophizing,trying diet gained weight week dont discipline diet
+612,My husband cancelled our wedding anniversary dinner. The thought that he does not care about me anymore. , Overgeneralizing,husband cancelled wedding anniversary dinner thought care anymore
+613,"I have depression and anxiety. The past 3 weeks have been especially tough depression wise, due to some out of our control stressors. spent a lot of time in bed while my kids were in school, just doing the bare minimum.  Meanwhile, my very supportive husband has been picking up my slack. I feel as though I nearly contribute to the household chores as much as I should, though I thank him constantly for his work.  Any words of wisdom or encouragement? I feel like a bad wife and mom ", Emotional reasoning,depression anxiety past week especially tough depression wise due control stressor spent lot time bed kid school bare minimum meanwhile supportive husband picking slack feel though nearly contribute household chore much though thank constantly work word wisdom encouragement feel like bad wife mom
+614,I tried to advertise my business more but have gotten zero leads from it. I am not good at what I do. , All-or-nothing thinking,tried advertise business gotten zero lead good
+615,I came home to find my spouse had taken all of his things and left a note saying our marriage was over. My marriage is over. , Overgeneralizing,came home find spouse taken thing left note saying marriage marriage
+616,A week ago me and my GF were trying to find a store in a nearby town but we got lost. We won't be able to find the store before it closes. , Fortune telling,week ago gf trying find store nearby town got lost wont able find store close
+617,My girlfriend came home later than usual after work and didn't bother to call and let me know or answer the phone when I called to check on her. She acted like it was not big deal after she came home. My girlfriend is hiding something from me. , Emotional reasoning,girlfriend came home later usual work didnt bother call let know answer phone called check acted like big deal came home girlfriend hiding something
+618,"My wife, asked me very kindly, to finally clean the bathroom shower in our bathroom, and I got upset by this. I'm busy doing something else, it's not like I haven't tried to get to that chore! ", Negative feeling or emotion,wife asked kindly finally clean bathroom shower bathroom got upset im busy something else like havent tried get chore
+619,I yelled at my sister for not doing something correctly There will never be enough time to get everything done , All-or-nothing thinking,yelled sister something correctly never enough time get everything done
+620,My wife sat me down and said she needed me to make more money because she is tired of paying rent by herself i was letting her down and she felt pressured by my actions , Mind reading,wife sat said needed make money tired paying rent letting felt pressured action
+621,I was in my grandma's house and I knocked the vase on the floor Grandma will be so angry at me , Fortune telling,grandma house knocked vase floor grandma angry
+622,An mturk requester rejected my task and I wasn't sure why because I work very hard on my tasks. Being new it affected my approval rating more negatively. I'm not smart enough to succeed at mturk , All-or-nothing thinking,mturk requester rejected task wasnt sure work hard task new affected approval rating negatively im smart enough succeed mturk
+623,"My daughter refused to do anything I instructed her to and embarrassed me greatly before guests I was hosting. If I cannot control her now, I have lost her perhaps forever ", Overgeneralizing,daughter refused anything instructed embarrassed greatly guest hosting cannot control lost perhaps forever
+624,A potential client decided to work with another company. I failed our company & myself. , All-or-nothing thinking,potential client decided work another company failed company
+625,I can't do anything right and I'm crying over spilling cereal on my bed and dress I'm worthless , Catastrophizing,cant anything right im cry spilling cereal bed dress im worthless
+626,Don't have a job I'm a failure , Negative feeling or emotion,dont job im failure
+627,They did not convert me as permanent at work I'm a failure , Labeling,convert permanent work im failure
+628,"I can feel everyone becoming distant with me, including my boyfriend. He just cheated on me not even a week ago and i cant bring myself to leave him no matter what he does. He does not care. I have no family, i only ever had him. Im annoying and i am never happy with anything and i hate myself for it because i want to be happy and i want to be a good person. I can feel my heart breaking more and more as i cone to the realization that i am not wanted nor needed. I am a problem. ", Labeling,feel everyone becoming distant including boyfriend cheated even week ago cant bring leave matter care family ever im annoying never happy anything hate want happy want good person feel heart breaking cone realization wanted needed problem
+629,I know why I am so angry all of the time. like I have this little monster in my head. It just makes me want to abandon everything and hide from everyone so I lash out anymore. I just hate my brain. I am crazy. , Labeling,know angry time like little monster head make want abandon everything hide everyone lash anymore hate brain crazy
+630,I thought that my sister had taken some money from my house when she'd come over to visit. I cannot trust my sister anymore. , Blaming,thought sister taken money house shed come visit cannot trust sister anymore
+631,I've been a massive bummer in my personal life and am making people feel bad I'm worthless , Labeling,ive massive bummer personal life making people feel bad im worthless
+632,"I was passed over for a new job with a larger company. I had the qualifications and the experience for this job, yet I was passed over for someone else who had less experience than I. ", Personalizing,passed new job larger company qualification experience job yet passed someone else le experience
+633,I posted a new piece of artwork online and people started comparing it with artwork created by others I shouldn't have posted it , Personalizing,posted new piece artwork online people started comparing artwork created others shouldnt posted
+634,I made a goal to quit smoking and failed I keep failing at this , Overgeneralizing,made goal quit smoking failed keep failing
+635,I burnt the potatoes while cooking I should have been perfect , Should statements,burnt potato cooking perfect
+636,My girlfriend is getting a new job in a distant city. This is going to cause us to break up. , Fortune telling,girlfriend getting new job distant city going cause u break
+637,"I had been working on a project at work for a very long time, but a higher up manager contacted my boss and asked about it, insinuating I wasn't delivering it fast enough. I'm working on this as fast as I possibly can ", Comparing and Despairing,working project work long time higher manager contacted bos asked insinuating wasnt delivering fast enough im working fast possibly
+638,Threw a conniption when unable to complete an Amigurumi project for my niece. I am unable to do this simply damned thing. , All-or-nothing thinking,threw conniption unable complete amigurumi project niece unable simply damned thing
+639,"I did a poor job organizing a meeting, but it turned out to not be a big deal. I am not a good project manager. ", Labeling,poor job organizing meeting turned big deal good project manager
+640,My wife didn't look up from her phone or answer me when I came to talk to her. Am I not worth her time? , Labeling,wife didnt look phone answer came talk worth time
+641,I was on the phone with my boyfriend and he got a call on the other line. I assumed it was another girl calling him. I am not good enough. , Labeling,phone boyfriend got call line assumed another girl calling good enough
+642,I talk to a close friend online every day because we live in different states. We share a lot about our lives and our messages are usually pretty long. My friend asked me to stop messaging for a while because they felt overwhelmed and wouldn't be able to respond but wanted to at a later time I'm annoying and oversharing , Overgeneralizing,talk close friend online every day live different state share lot life message usually pretty long friend asked stop messaging felt overwhelmed wouldnt able respond wanted later time im annoying oversharing
+643,i ate too much and too fast to temporarily please myself but not because i felt hunger i am not able to control my eating habits , Negative feeling or emotion,ate much fast temporarily please felt hunger able control eating habit
+644,I couldn't find my bank card and realized my husband must have taken it. He shouldn't have taken it without asking me first. , Blaming,couldnt find bank card realized husband must taken shouldnt taken without asking first
+645,I was told that I don't look as attractive as I used to by my significant other. She told me that she does not like the way that I have been dressing lately and that I should go back to my old style of dressing. I can recall feeling embarrassed and let down with myself. I felt very tiny and as though my relationship was falling apart because she was starting to become very superficial. What am I doing to deserve this? , Emotional reasoning,told dont look attractive used significant told like way dressing lately go back old style dressing recall feeling embarrassed let felt tiny though relationship falling apart starting become superficial deserve
+646,My husband got two tickets to a Bruins game the other day and rather than asking me if I wanted to go with him he invited a friend. My husband doesn't want to spend time with me. , Mind reading,husband got two ticket bruin game day rather asking wanted go invited friend husband doesnt want spend time
+647,"A new policy at work was established and required cooperation of efforts from another department in order to meet the new requirements. I took initiative and set meetings to talk about the new roles. After the meeting a verbal agreements were made I drafted a memorandum of agreement outlining the verbal agreements. A day later, the other department refused to participate because they did not want to do any extra work. We will not be able to complete the work that needs to be done ", Catastrophizing,new policy work established required cooperation effort another department order meet new requirement took initiative set meeting talk new role meeting verbal agreement made drafted memorandum agreement outlining verbal agreement day later department refused participate want extra work able complete work need done
+648,I was reprimanded at work for standing up to a coworker who was bullying another co-worker. It was unfair that I was the one to get in trouble for defending a weaker person. , Blaming,reprimanded work standing coworker bullying another coworker unfair one get trouble defending weaker person
+649,"I have been studying for months for the real estate exam. When I went to take it, I did not pass by two points. I really have to pass, I need to work. ", Negative feeling or emotion,studying month real estate exam went take pas two point really pas need work
+650,I hurt my families feelings by canceling the trip they had planned to come to see me. I should have made time for them. , Should statements,hurt family feeling canceling trip planned come see made time
+651,Someone started a rumor that I'd been banned from an online community when in fact I hadn't. Many people chose to attack my character and one person called me a bully. When I dispelled the rumor and defended myself I was denied an opportunity to defend myself and insulted further. I am a bad person. , Labeling,someone started rumor id banned online community fact hadnt many people chose attack character one person called bully dispelled rumor defended denied opportunity defend insulted bad person
+652,I am trying to help my son pay his bills and find a job. He does not appreciate anything I do for him. , Overgeneralizing,trying help son pay bill find job appreciate anything
+653,I was talking with my boyfriend on my lunch break and he started to clean his computer with canned air which made a very loud noise. Does he not care what I am saying? , Overgeneralizing,talking boyfriend lunch break started clean computer canned air made loud noise care saying
+654,I tried to make a business but I lose I'll never be able to do anything , Fortune telling,tried make business lose ill never able anything
+655,My dad is in the next room in his hospice bed and im afraid of not doing everything right. Am I doing enough , Negative feeling or emotion,dad next room hospice bed im afraid everything right enough
+656,I tried a new hair style but no one commented on it I shouldn't have changed my hair , Should statements,tried new hair style one commented shouldnt changed hair
+657,Our group project did not receive a high grade It was my fault my group got a bad grade , Disqualifying the Positive,group project receive high grade fault group got bad grade
+658,I sent a message to my friend and they did not reply It must be my fault , Personalizing,sent message friend reply must fault
+659,I was up for a promotion at work and did not receive it. I will be stuck in middle-management for the remainder of my career. , Catastrophizing,promotion work receive stuck middlemanagement remainder career
+660,I failed to convince my son that he should go back to college I am failing as a parent , Labeling,failed convince son go back college failing parent
+661,I didn't get as good of feedback on a work assignment as I wanted I didn't do as good a job as I thought , Catastrophizing,didnt get good feedback work assignment wanted didnt good job thought
+662,I was talking to my husband about something that happened to me that day.  He kept interrupting and talking over me.  I got up and left the room. My husband was being a jerk and not listening to me. , Personalizing,talking husband something happened day kept interrupting talking got left room husband jerk listening
+663,I applied for a new part-time position and took the qualifying exam but didn't pass because they  changed some of the guidelines for the job. They warned us beforehand that this may happen in the hiring process. I thought that I should have studied harder. If I knew enough information I would pass no matter how the standards changed. It was my fault I didn't try hard enough and was furious with myself , Personalizing,applied new parttime position took qualifying exam didnt pas changed guideline job warned u beforehand may happen hiring process thought studied harder knew enough information would pas matter standard changed fault didnt try hard enough furious
+664,"The guy I'm dating went home early one night and I got upset because I thought it meant he didn't want to see me anymore, but I was wrong. I guess he doesn't like me anymore ", Mind reading,guy im dating went home early one night got upset thought meant didnt want see anymore wrong guess doesnt like anymore
+665,i celebrated a past holiday by myself why don't i have friends? why am i not social? SIGH! , All-or-nothing thinking,celebrated past holiday dont friend social sigh
+666,I run a business with my close friend and we were taking work-related photos at their house. I took the memory card home but lost it while I was walking. My friend is going to be angry with me , Mind reading,run business close friend taking workrelated photo house took memory card home lost walking friend going angry
+667,I called a woman I love by accident during a bad time She will never love me now , Mind reading,called woman love accident bad time never love
+668,"I confronted a coworker about eating my food from the refrigerator, only to realize the custodians threw away my food the night before. My coworkers are making fun of me now ", Mind reading,confronted coworker eating food refrigerator realize custodian threw away food night coworkers making fun
+669,I took part in a writing competition and I lost I will never become a successful writer , Fortune telling,took part writing competition lost never become successful writer
+670,Three days have passed since my job interview and I didn't receive any updates I didn't get the job , Fortune telling,three day passed since job interview didnt receive update didnt get job
+671,"I'm facing an issue, that I love you girlfriend and she loves me back. But I hurt her because I'm manipulative, without really realizing what I'm doing. I make her feel guilty of things that she shouldn't feel so, and if I don't get things my way, I manipulate it so it sounds like it's her fault or she is wrong. I don't do it voluntarily, but I do it too often and it hurts her and me. I am manipulative ", Labeling,im facing issue love girlfriend love back hurt im manipulative without really realizing im make feel guilty thing shouldnt feel dont get thing way manipulate sound like fault wrong dont voluntarily often hurt manipulative
+672,"Every time I think I have another chance at love, I am reminded how insufferable and unlovable I make myself. I am a hard person to love ", Labeling,every time think another chance love reminded insufferable unlovable make hard person love
+673,I love two people at the same time That I'm going to fail , Fortune telling,love two people time im going fail
+674,I've been applying for jobs and just got a call that someone else filled a position I applied for. I might never get hired. , Catastrophizing,ive applying job got call someone else filled position applied might never get hired
+675,My inabilities cost me my job. I would not find a job , Catastrophizing,inability cost job would find job
+676,Fired for not meeting quota as a salesman. I can't pay my bills. , Negative feeling or emotion,fired meeting quota salesman cant pay bill
+677,I had an opportunity to get a large bonus at work but I did not do well on task so no bonus I could have done so much better , Personalizing,opportunity get large bonus work well task bonus could done much better
+678,I wave to an acquaintance and get no response. I don't make a memorable impression on people. , Labeling,wave acquaintance get response dont make memorable impression people
+679,I want to shoot myself I have lost all hope , Negative feeling or emotion,want shoot lost hope
+680,My guitar teacher told me I needed to correct my posture I've been practicing but I'm not making any progress , All-or-nothing thinking,guitar teacher told needed correct posture ive practicing im making progress
+681,I got very upset last week when I realized that I had forgotten to fill out a required form and the date that the form was due had already passed. they should have reminded me before I forgot , Should statements,got upset last week realized forgotten fill required form date form due already passed reminded forgot
+682,"I found a job I thought was perfect for me in the field I used to work in and love very much. A few days after putting in a resume and lining up several references, I found out the job was filled and I didn't even get so much as an acknowledgment of my application much less an interview when I was extremely qualified. why can't I ever get anything I want ", All-or-nothing thinking,found job thought perfect field used work love much day putting resume lining several reference found job filled didnt even get much acknowledgment application much le interview extremely qualified cant ever get anything want
+683,I recently discovered a music artist that I very much enjoy. When I showed it to a close friend they had a very negative reaction and asked me how I could enjoy this type of music. I ended up getting quite angry with them and told them they had bad taste in music. I felt that my personal self was under attack - and I needed to retaliate by denying their attack. , Personalizing,recently discovered music artist much enjoy showed close friend negative reaction asked could enjoy type music ended getting quite angry told bad taste music felt personal self attack needed retaliate denying attack
+684,Recent panic attack I'm not going to live up to my expectations for my future , Catastrophizing,recent panic attack im going live expectation future
+685,I hurt my family members by telling them to postpone their long-planned trip to visit me because I was too busy I am selfish , Labeling,hurt family member telling postpone longplanned trip visit busy selfish
+686,"When I told my friend about my job, he said it has little real-world significance My job is worthless ", Overgeneralizing,told friend job said little realworld significance job worthless
+687,"it's so hard to do school work, get out of bed, care for myself, and eat I'm so exhausted ", Negative feeling or emotion,hard school work get bed care eat im exhausted
+688,Our forest inventory data is due in less than three days and I still have over 100 plots to do.  The date cannot be missed and my superiors expect it completed. I have at least four normal days of plot work needing done in three days , Negative feeling or emotion,forest inventory data due le three day still plot date cannot missed superior expect completed least four normal day plot work needing done three day
+689,My financial situation is going out of hand I'm worried about my future , Fortune telling,financial situation going hand im worried future
+690,"I was given a solo for the church play.  At practice when it came time for me to sing, my voice cracked and I lost the solo. I can't sing. ", All-or-nothing thinking,given solo church play practice came time sing voice cracked lost solo cant sing
+691,"I always do the wrong thing, I always make mistakes I hate myself ", Labeling,always wrong thing always make mistake hate
+692,"I was walking in a poorly lit downtown area when a man approached me and asked for money. I told him I had none, and he started cussing me out and following me. I eventually started running and he finally stopped following. He is going to hurt me ", Fortune telling,walking poorly lit downtown area man approached asked money told none started cussing following eventually started running finally stopped following going hurt
+693,"I left a toxic job that abused me for more than a decade. I thought I found a new job that was better, but realized they lied to me about the job and now I hate working here. I feel like I made a huge mistake. I can never get a break. Every time I try to make a positive change in my life, something happens to ruin it. ", Negative feeling or emotion,left toxic job abused decade thought found new job better realized lied job hate working feel like made huge mistake never get break every time try make positive change life something happens ruin
+694,Last week I found out that my mother had experienced sudden back pain that lasted for a few days  and I somehow worked myself into a very concerned state where I kind of felt like she was going to become completely incapacitated and have to live in a nursing home. I'm afraid she's going to die soon. , Emotional reasoning,last week found mother experienced sudden back pain lasted day somehow worked concerned state kind felt like going become completely incapacitated live nursing home im afraid shes going die soon
+695,I received a rejection email from a position I applied to. I will never get a job. , Fortune telling,received rejection email position applied never get job
+696,"I called an old friend, but she wasn't home and didn't return my call. Maybe she doesn't want to talk to me anymore. ", Mind reading,called old friend wasnt home didnt return call maybe doesnt want talk anymore
+697,I am single and isolated im unlovable , Negative feeling or emotion,single isolated im unlovable
+698,"My boyfriend didn't reply back to me instantly. If I text my boyfriend too much, he will get bored of me. ", Mind reading,boyfriend didnt reply back instantly text boyfriend much get bored
+699,I was looking forward to relaxing but my partner asked me to make dinner instead. My partner thinks I am lazy. , Mind reading,looking forward relaxing partner asked make dinner instead partner think lazy
+700,"Someone criticized the way I dealt with a patient saying that I was too short tempered with them. I felt the criticism was unfair because they didn't take into account the entire situation, especially considering how the patient was behaving towards me. ", Personalizing,someone criticized way dealt patient saying short tempered felt criticism unfair didnt take account entire situation especially considering patient behaving towards
+701,I failed to turn in my planned event calendar by the due date. I forgot something important. Again. My boss is going to kill me. , Catastrophizing,failed turn planned event calendar due date forgot something important bos going kill
+702,"I had a huge fight with my friend and I love her so much and I called her fat and ugly and I didn't mean to, is there a condition for something like this I'm being mean to someone I love ", Labeling,huge fight friend love much called fat ugly didnt mean condition something like im mean someone love
+703,Last week I made a special dinner at my house for my family to enjoy but I overcooked the food. after three decades since I first started learning how to cook I am still ruining meals. , Overgeneralizing,last week made special dinner house family enjoy overcooked food three decade since first started learning cook still ruining meal
+704,I failed to do a work task appropriately in a side-gig. I won't get paid , Fortune telling,failed work task appropriately sidegig wont get paid
+705,I mixed up the addresses on two packages and sent them to the wrong place I screwed up again at work , Negative feeling or emotion,mixed address two package sent wrong place screwed work
+706,I made a mistake with an expensive reagent at work and ruined my experiment. I'm mad at myself for being careless , Emotional reasoning,made mistake expensive reagent work ruined experiment im mad careless
+707,I couldn't finish the task in time I'm incompetent , Labeling,couldnt finish task time im incompetent
+708,My friend asked for help and I denied I'm self-centered , Labeling,friend asked help denied im selfcentered
+709,I try to talk to a stranger at a party and they seem disinterested and walk away from me I'm boring , Fortune telling,try talk stranger party seem disinterested walk away im boring
+710,"I don't work. I rely heavily on my partner, I'm so easily scared I am a burden. ", Labeling,dont work rely heavily partner im easily scared burden
+711,I am alone none understands Can not move have so much to do mind numb , Negative feeling or emotion,alone none understands move much mind numb
+712,I had a breakup I am the cause of the breakup , Personalizing,breakup cause breakup
+713,"My friend asked for advice, but I was unable to provide it I'm completely self-centered and thoughtless ", All-or-nothing thinking,friend asked advice unable provide im completely selfcentered thoughtless
+714,"Last week my sister and I facetime. I didnt show much interest. Later that day, my cousin told me that my sister was sad because of my behavior. I made my sister sad ", Mind reading,last week sister facetime didnt show much interest later day cousin told sister sad behavior made sister sad
+715,I am under appreciated at work Self worth , Comparing and Despairing,appreciated work self worth
+716,I gained a little weight while trying to diet I'm not succeeding , All-or-nothing thinking,gained little weight trying diet im succeeding
+717,"I lost my best friend. I'm a male and she was the nicest girl I've ever met. But I fucked it. I started to take her for granted, started to overthink, to take everything too seriously, I was jealous, selfish and though only of my own interests and not of hers feelings it's all my fault ", Personalizing,lost best friend im male nicest girl ive ever met fucked started take granted started overthink take everything seriously jealous selfish though interest feeling fault
+718,I have been trying a number of diets. This week I weighed myself and found out I had gained a pound I am trying to lose weight but nothing works , Disqualifying the Positive,trying number diet week weighed found gained pound trying lose weight nothing work
+719,I was not paying attention and scratched someone's car while driving I am will have to pay for this , Fortune telling,paying attention scratched someone car driving pay
+720,"For many years I've been tutoring students online in math and reading. One of my newer students requested to my supervisor that she be assigned to a different tutor because she didn't like me. I was searching my brain to figure out why she didn't like me, and it made me so sad to think I'd hurt her feelings or caused a problem for her. ", Personalizing,many year ive tutoring student online math reading one newer student requested supervisor assigned different tutor didnt like searching brain figure didnt like made sad think id hurt feeling caused problem
+721,I had dinner plans cancelled by my parents because I my mom was feeling under the weather. I never get to see her anymore. , Negative feeling or emotion,dinner plan cancelled parent mom feeling weather never get see anymore
+722,It's so hard to study effectively and it takes all the time and energy I have. And then I still don't feel prepared. I'm so behind and i'm so afraid of the terrible grades I will recieve. I can't do anything right , Negative feeling or emotion,hard study effectively take time energy still dont feel prepared im behind im afraid terrible grade recieve cant anything right
+723,I was called into a meeting with my boss where I was told that I wasn't meeting the standards at work. I am not doing well enough to warrant working at this job. , All-or-nothing thinking,called meeting bos told wasnt meeting standard work well enough warrant working job
+724,"I have been trying to get a hold of a friend to help me with a project for over a week, but he won't return my calls or texts. He is avoiding me ", Mind reading,trying get hold friend help project week wont return call text avoiding
+725,I got into a minor car crash. I messed up big time. , Catastrophizing,got minor car crash messed big time
+726,I yelled at my child for being too fidgety during stories at bedtime. The kids will never settle down. , Fortune telling,yelled child fidgety story bedtime kid never settle
+727,"I applied for a promotion but was told I haven't shown the necessary ambition yet. This happened at work where I always go the extra mile, stay late, and even work when I'm not being paid. I feel like the response to my request for a promotion was inaccurate and that I am being taken advantage of because nothing I could do is enough. I was denied the promotion by the department head who is a woman that seems to always talk down to and be rude to men at the company. I felt as if my talents and efforts were being unrecognized by the company yet they are perfectly happy to accept all of my hard work, just not pay me what I deserve for it. ", Disqualifying the Positive,applied promotion told havent shown necessary ambition yet happened work always go extra mile stay late even work im paid feel like response request promotion inaccurate taken advantage nothing could enough denied promotion department head woman seems always talk rude men company felt talent effort unrecognized company yet perfectly happy accept hard work pay deserve
+728,I got upset at my boss for not putting me in a temporary promotion to act as supervisor of our team. I wasn't valued as much as the other person. , Personalizing,got upset bos putting temporary promotion act supervisor team wasnt valued much person
+729,I was talking to a friend who got me angry. He's insulting me. , Mind reading,talking friend got angry he insulting
+730,My daughter spilled a drink on my desk. She ruined my project , Blaming,daughter spilled drink desk ruined project
+731,I missed the submission deadline My efforts are wasted , Disqualifying the Positive,missed submission deadline effort wasted
+732,My friend has more followers on Twitter than me She is more successful than I am , Blaming,friend follower twitter successful
+733,I did nothing with my day Don't feel like I deserve fun/enjoyment , All-or-nothing thinking,nothing day dont feel like deserve funenjoyment
+734,i dont wanna continue with this life im ready to die , Emotional reasoning,dont wanna continue life im ready die
+735,"My friend and I were looking at apartments. His first choice for apartments was one that was too small for my life goals, as I could not set up an office in it. He wanted the better room in the apartment. He only cares about himself. ", Disqualifying the Positive,friend looking apartment first choice apartment one small life goal could set office wanted better room apartment care
+736,"While I was at work, my supervisor questioned my decision in a negative tone infront of my peers. She needs to stop discussing this. ", Negative feeling or emotion,work supervisor questioned decision negative tone infront peer need stop discussing
+737,A friend of mine was pressuring me to see a movie I didn't want to see.  I tried to sheepishly get out of it but did not want to disappoint him so I just sort of agreed when I didn't want to do it.  So I ended up being miserable for two hours watching a movie I did not enjoy. I am miserable because I have such a hard time saying no. , Personalizing,friend mine pressuring see movie didnt want see tried sheepishly get want disappoint sort agreed didnt want ended miserable two hour watching movie enjoy miserable hard time saying
+738,I got excessively angry at my friend for sending stupid pictures of me to a mutual friend. I felt betrayed and that was extreme Why did I overact like this , Catastrophizing,got excessively angry friend sending stupid picture mutual friend felt betrayed extreme overact like
+739,I became very stressed out after getting a bad score on a quiz My grades are important and I did poorly , Disqualifying the Positive,became stressed getting bad score quiz grade important poorly
+740,My sister in law won't speak to me My sister in law thinks I am worthless , Negative feeling or emotion,sister law wont speak sister law think worthless
+741,First interview after studying and getting my diploma. I'll screw it over , Fortune telling,first interview studying getting diploma ill screw
+742,"I received a subpar quiz score in a class. I should have studied harder, or more efficiently. ", Should statements,received subpar quiz score class studied harder efficiently
+743,My sister asked my mother about me taking care of her cats instead of asking me directly. I don't matter. , Overgeneralizing,sister asked mother taking care cat instead asking directly dont matter
+744,I just got fired from working as a sales person because I didn't reach my quota. I had never had a job like this before this. I'm a failure and can't keep a sales person job. , All-or-nothing thinking,got fired working sale person didnt reach quota never job like im failure cant keep sale person job
+745,"My girlfriend was sad that I wanted to go out with my friends, and started a fight. Why can't I have fun? Why must I stay home all the time? ", Overgeneralizing,girlfriend sad wanted go friend started fight cant fun must stay home time
+746,My daughter's illness worry about a disabled family member , Negative feeling or emotion,daughter illness worry disabled family member
+747,I'm waiting everyday for the weekend and the holidays. I'm not getting anything productive done. I can't bring myself to be motivated. , Negative feeling or emotion,im waiting everyday weekend holiday im getting anything productive done cant bring motivated
+748,everyone ignores. not their fault I know. Honestly my best friends have been treating me like dirt and idk what to do. I feel so pointless taken all my mental and emotional energy to even send this. No one cares about me , All-or-nothing thinking,everyone ignores fault know honestly best friend treating like dirt idk feel pointless taken mental emotional energy even send one care
+749,My girlfriend was ignoring me for a while. She didn't like me anymore. , Mind reading,girlfriend ignoring didnt like anymore
+750,I went on a trip and heard a commercial for a kitchen appliance I feel so anxious maybe I left something turned on in the kitchen , Should statements,went trip heard commercial kitchen appliance feel anxious maybe left something turned kitchen
+751,My wife accused me of cheating. She doesn't trust me. , Mind reading,wife accused cheating doesnt trust
+752,"I finished second in the writing contest Being second means nothing, anyone could have achieved that ", Disqualifying the Positive,finished second writing contest second mean nothing anyone could achieved
+753,I've been sitting at my desk for a long time and I haven't been able to get anything done. Other people are probably doing it better than me. , Comparing and Despairing,ive sitting desk long time havent able get anything done people probably better
+754,I'm feeling suicidal I can't stop cutting myself , Negative feeling or emotion,im feeling suicidal cant stop cutting
+755,Having problems coming up with words to write essay. I will get a bad grade. , Fortune telling,problem coming word write essay get bad grade
+756,I was on a coffee break and my boss reminded me of work that needs to get done. I could get fired. , Catastrophizing,coffee break bos reminded work need get done could get fired
+757,My boss interrupted my break to tell me to work I feel guilty , Emotional reasoning,bos interrupted break tell work feel guilty
+758,"My teenage child wanted to go out with friends and I said no I feel horrible about it, I must be a bad parent ", Emotional reasoning,teenage child wanted go friend said feel horrible must bad parent
+759,"I tried on my wedding dress in front of my family. My mother was excited and told me I was beautiful, but other members of my family made comments about my weight. I was told to not eat and exercise so I could be beautiful. I'm a fat ugly troll. ", Labeling,tried wedding dress front family mother excited told beautiful member family made comment weight told eat exercise could beautiful im fat ugly troll
+760,My partner left me. I did something wrong , Personalizing,partner left something wrong
+761,The host of a party is giving me one-word responses when I try to talk to them I feel like an outcast , Emotional reasoning,host party giving oneword response try talk feel like outcast
+762,"My love is leaving, and there's no turning back. What if I never see her again? ", Catastrophizing,love leaving there turning back never see
+763,I lost my house I want to die , Negative feeling or emotion,lost house want die
+764,I got a bad grade in one of the three assignments How could I have done so badly , Disqualifying the Positive,got bad grade one three assignment could done badly
+765,"I have anxiety, depression, disordered eating, and when I asked if I have ptsd my therapist said I have (whatever). The longest job I had was five months, and majority of my jobs have been part time seasonal work. about as long as worked anywhere else too. I get bored, and my mental illnesses make it hard too. I’ll never be able to hold a job. ", Fortune telling,anxiety depression disordered eating asked ptsd therapist said whatever longest job five month majority job part time seasonal work long worked anywhere else get bored mental illness make hard ill never able hold job
+766,My friends invited me to go bowling this Saturday I bet all my friends will be amazing at bowling apart from me , Mind reading,friend invited go bowling saturday bet friend amazing bowling apart
+767,Everyone in my life has left me Someone please kill me , Negative feeling or emotion,everyone life left someone please kill
+768,Everyone is mean to me I hate everyone , Negative feeling or emotion,everyone mean hate everyone
+769,I went on a trip and heard a commercial for a kitchen appliance Did I leave the kitchen stove on? My entire house will burn down , Catastrophizing,went trip heard commercial kitchen appliance leave kitchen stove entire house burn
+770,I forgot to give my boss an important message when I was at work. The customer who left the message ended up being very angry because they had a problem that needed to be resolved My boss was pretty upset with me and the customer may take his business elsewhere I feel like a failure , Labeling,forgot give bos important message work customer left message ended angry problem needed resolved bos pretty upset customer may take business elsewhere feel like failure
+771,My next door neighbors filed a complaint against us last week blaming our dogs for excessive barking They are so wrong and I'm so pissed but I know I can't prove it and they will probably win because they won't ever admit it and I have to do something right NOW! or I might lose my dogs. , Overgeneralizing,next door neighbor filed complaint u last week blaming dog excessive barking wrong im pissed know cant prove probably win wont ever admit something right might lose dog
+772,"I am at a party where I do not know very many people. When I try to talk to a stranger, he gives one word replies and then ignores me. . I am being annoying. ", Mind reading,party know many people try talk stranger give one word reply ignores annoying
+773,At work I was frustrated after a meeting because I was told a certain amount of documents had to be indexed that week. I had a lot of other tasks and I started frantically naming them off. I was not expected to be indexing the full collection of documents like I thought I was so I was later embarassed I had acted so frustrated and snappy. I thought I was being taken advantage of. , Mind reading,work frustrated meeting told certain amount document indexed week lot task started frantically naming expected indexing full collection document like thought later embarassed acted frustrated snappy thought taken advantage
+774,I ask out a co-worker who I became fond of recently but was turned down. I won't find someone I can be with , Fortune telling,ask coworker became fond recently turned wont find someone
+775,I invited a co-worker out and they turned me down They will never want to go out with me , Catastrophizing,invited coworker turned never want go
+776,I was in my grandma's house and I knocked the vase on the floor My grandma will never talk to me again , Catastrophizing,grandma house knocked vase floor grandma never talk
+777,My wife was supposed to be home by now and she's not and it's raining really bad Did she get in a car crash? , Comparing and Despairing,wife supposed home shes raining really bad get car crash
+778,"I cant work out what my real personality is because my opinions and moods change all the time and Its like I change into different personalities kind of but its not different conciousmesses its just i dont know how to explain it but I think im insane because I dont know much about who I am because who I am changes and it can change very fast, is this normal? i have no stable identity and I dont know why or if its normal ", Overgeneralizing,cant work real personality opinion mood change time like change different personality kind different conciousmesses dont know explain think im insane dont know much change change fast normal stable identity dont know normal
+779,"Meeting an old friend, that I hadn't seen in two decades for lunch. what if i have nothing to say, what if we don't click anymore, what if this goes badly. ", Fortune telling,meeting old friend hadnt seen two decade lunch nothing say dont click anymore go badly
+780,"Recently I found out that one of my coworkers with who I work closely, organized a party and I wasn't invited to the party. I felt left out and singled out in the office and wondered if the person had a personal grudge against me. ", Personalizing,recently found one coworkers work closely organized party wasnt invited party felt left singled office wondered person personal grudge
+781,My boss yelled at me I'm feeling sad , Negative feeling or emotion,bos yelled im feeling sad
+782,My boyfriend went to visit his son and wound up spending the entire day with his son and his son's mother while ignoring my phone calls. I thought he was cheating on me , Mind reading,boyfriend went visit son wound spending entire day son son mother ignoring phone call thought cheating
+783,My husband asked me to make sure I cleaned the cutting board better. I do so much around here and you are harping about the cutting board? , Blaming,husband asked make sure cleaned cutting board better much around harping cutting board
+784,We had bad storms in our community and some tornadoes came through and destroyed some of the area. No one in our extended family from out of town checked on me. I feel unloved and unwanted by my mother and siblings , Emotional reasoning,bad storm community tornado came destroyed area one extended family town checked feel unloved unwanted mother sibling
+785,We are not making enough progress on our group project This project is a failure because of John , Blaming,making enough progress group project project failure john
+786,My boyfriend and I were supposed to go out last night and I got very aggravated at the change of plans and that he pushed back the time. he didn't respect our initial commitment , Negative feeling or emotion,boyfriend supposed go last night got aggravated change plan pushed back time didnt respect initial commitment
+787,I was with friends and misinterpreted a comment and was upset for the wrong reasons. Turns out I misheard what was said and made a big deal out of nothing. Why are my friends treating me so harshly? , Negative feeling or emotion,friend misinterpreted comment upset wrong reason turn misheard said made big deal nothing friend treating harshly
+788,I was planning a bachelor party for a friend and some of the people invited were not satisfied with what I was trying to plan. Why can't they cooperate on this? , Personalizing,planning bachelor party friend people invited satisfied trying plan cant cooperate
+789,I tried to make friends with people but they kept ignoring me. I am not interesting , Negative feeling or emotion,tried make friend people kept ignoring interesting
+790,I've been sitting at my desk for a long time and I haven't been able to get anything done. I will lose my job eventually. , Catastrophizing,ive sitting desk long time havent able get anything done lose job eventually
+791,In class I feel like others hear my thoughts and judge me. When some things really don't work(for example I have some things for school for tommorow and I can't find how to do that thing after searching hours on internet I get angry and sometimes results to self harm(punching). I sometimes feel like everybody is here just to watch me and see how I react to things(sounds insane). Am I insane? , Labeling,class feel like others hear thought judge thing really dont workfor example thing school tommorow cant find thing searching hour internet get angry sometimes result self harmpunching sometimes feel like everybody watch see react thingssounds insane insane
+792,My boyfriend made fun of me for losing a game. I got upset and we had an argument. I'm really bad at everything I do. , All-or-nothing thinking,boyfriend made fun losing game got upset argument im really bad everything
+793,My boss pointed out an unintentional error in my work. I am incapable of doing anything right. , All-or-nothing thinking,bos pointed unintentional error work incapable anything right
+794,"When doing some piecework online, I was told that my work was not good. I worked hard on these jobs, and was sure I had done well. ", Overgeneralizing,piecework online told work good worked hard job sure done well
+795,They are racist I hate Republicans , Negative feeling or emotion,racist hate republican
+796,Go fuck yourself Fuck you , Negative feeling or emotion,go fuck fuck
+797,Once I was unemployed because I had many faults at work Having done things wrong , Personalizing,unemployed many fault work done thing wrong
+798,I worried about being late and I almost crashed the car I worry too much , Negative feeling or emotion,worried late almost crashed car worry much
+799,That's what my mom tells me growing up I'm worthless , Overgeneralizing,thats mom tell growing im worthless
+800,I invited a co-worker out and they turn me down They will never want to go out with me , Labeling,invited coworker turn never want go
+801,My crush doesn't like me back Never finding love , Overgeneralizing,crush doesnt like back never finding love
+802,"I asked my daughter a question, and she responded in a snotty way. She doesn't love me like she used to. ", Personalizing,asked daughter question responded snotty way doesnt love like used
+803,"Recent rape, prior trauma, isolation, boredom, loneliness, feeling abandoned and so alone I can't get through this ", Negative feeling or emotion,recent rape prior trauma isolation boredom loneliness feeling abandoned alone cant get
+804,Becoming broke again. I can't and never will escape this prison at my moms house , Negative feeling or emotion,becoming broke cant never escape prison mom house
+805,I don't know why I am writing the essay Nobody cares what I have to say , Overgeneralizing,dont know writing essay nobody care say
+806,"I showed a new game idea I have to some friends I have in a chat room we all have together, but only 2 of them responded. My friends aren't interested in my game idea ", Mind reading,showed new game idea friend chat room together responded friend arent interested game idea
+807,I put in a lot of time on an Mturk task and was rejected on an attention request. I suggested a better way of handling these errors (automatic ejection) to the researcher and their answer showed they didn't understand my point. I didn't explain this right. , Personalizing,put lot time mturk task rejected attention request suggested better way handling error automatic ejection researcher answer showed didnt understand point didnt explain right
+808,"While in a group voice chat, everyone left me without saying goodbye. Does nobody want to talk to me? ", Mind reading,group voice chat everyone left without saying goodbye nobody want talk
+809,My sister put pictures of everyone but me on her holiday card No one cares about me , Overgeneralizing,sister put picture everyone holiday card one care
+810,i and my brother were working in the same office were i am his senior and when he does careless mistakes my boss warned me as i am his senior who is responsible for his work my brother is very careless as he has the feeling that there is no one to ask him as his sister is the one who is senior , Overgeneralizing,brother working office senior careless mistake bos warned senior responsible work brother careless feeling one ask sister one senior
+811,"I was greatly irritated, almost angry,  when a close friend reached out to me for assistance on taxes.  I usually do them, but I did not want to be bothered this year and felt almost used. I feel my friend used me. ", Personalizing,greatly irritated almost angry close friend reached assistance tax usually want bothered year felt almost used feel friend used
+812,A friend who is a recent widower has started dating. My friend is ignoring his recently-deceased wife. , Mind reading,friend recent widower started dating friend ignoring recentlydeceased wife
+813,I called my friend three times this past week but she hasn't answered or called/messaged me back yet. Maybe she doesn't really like me as much as I thought and like her. Maybe I'm awkward. , Mind reading,called friend three time past week hasnt answered calledmessaged back yet maybe doesnt really like much thought like maybe im awkward
+814,I completely overreacted to my teenage son's grades. Why isn't this kid applying himself? , Overgeneralizing,completely overreacted teenage son grade isnt kid applying
+815,I was given a wrong dosage of medication by my Doctor.  I couldn't figure out why I felt so bad until I went back to see him. Medication can be dangerous. , All-or-nothing thinking,given wrong dosage medication doctor couldnt figure felt bad went back see medication dangerous
+816,Rejected from my dream company I never get what I want , Overgeneralizing,rejected dream company never get want
+817,My boss on the construction site was very mean and aggressive with me. I must not have been doing a good job , Personalizing,bos construction site mean aggressive must good job
+818,Your car broke down on the way to work and you are getting late I will lose my job over this! , Catastrophizing,car broke way work getting late lose job
+819,I was at work and sent info for an ad to our local newspaper. They called me later and said my boss had over-ridden everything and sent them new info. He shouldn't assign me a task if he doesn't trust my work. , Should statements,work sent info ad local newspaper called later said bos overridden everything sent new info shouldnt assign task doesnt trust work
+820,My daughter lied to me about a photo on her phone because she was embarrassed she doesnt want to share things with me , Personalizing,daughter lied photo phone embarrassed doesnt want share thing
+821,My Dentist told me I'd need a root canal procedure. I'm going to have to endure some physical and financial pain. , Fortune telling,dentist told id need root canal procedure im going endure physical financial pain
+822,"I was passed over for a small promotion at my place of work. The person who got the promotion was younger and less experienced than me, but a favorite of the boss. I was angry because I was the better person for the job. ", Personalizing,passed small promotion place work person got promotion younger le experienced favorite bos angry better person job
+823,My uncle was in a serious accident and ignorant members of my family did not contact me and let me know. The anger I felt because some members of the family do not like me so they refused to let me know about my beloved uncle. , Mind reading,uncle serious accident ignorant member family contact let know anger felt member family like refused let know beloved uncle
+824,"I am quite fond of a coworker and decide to talk to them. I offer up the idea that it might be fun to go out together sometime, and they respond with the fact they are too busy. I'm not attractive or have a good enough personality. ", Labeling,quite fond coworker decide talk offer idea might fun go together sometime respond fact busy im attractive good enough personality
+825,"one of my friend posted a video of a spider getting inside a car, and she so happened to have had her car broken into. So i asked her if the police found whoever broke into her car, and she totally ignored me maybe she doesn't like me anymore. ", Mind reading,one friend posted video spider getting inside car happened car broken asked police found whoever broke car totally ignored maybe doesnt like anymore
+826,"I had tentative plans to get together with friends last week, but they never got back to me. they don't really like me ", Mind reading,tentative plan get together friend last week never got back dont really like
+827,My husband and his friends are always speaking Spanish in front of me and I cannot understand anything they are saying things in front of me that they don't want me to know or understand , Negative feeling or emotion,husband friend always speaking spanish front cannot understand anything saying thing front dont want know understand
+828,"I asked my husband to get me wine on the way home from work, but he forgot. He is selfish ", Labeling,asked husband get wine way home work forgot selfish
+829,"My husband wants a divorce, I've self isolated for years, my brother died Worthlessness, abandonment, grief ", Negative feeling or emotion,husband want divorce ive self isolated year brother died worthlessness abandonment grief
+830,I was at my Moms house today and we were talking about my job. She was shocked that I had been there for more than a decade. She felt that it wasn't a good enough job. We were talking in the living room. She gasped as if that was insane. My job is worthless , Catastrophizing,mom house today talking job shocked decade felt wasnt good enough job talking living room gasped insane job worthless
+831,"At dinner my mother in law kept trying to tell me how to watch my daughter and was being condensending, I finally got angry and told her to mind her own business. My mother in law thinks I am an incompetent father. ", Mind reading,dinner mother law kept trying tell watch daughter condensending finally got angry told mind business mother law think incompetent father
+832,"my neighbors downstairs were having a party, and would not be quiet so i had to call the police and not get any sleep before work I am being disrespected ", Labeling,neighbor downstairs party would quiet call police get sleep work disrespected
+833,I was driving home with my mother and we were talking about something. I said something stupid that didn't make sense and she called me out on it. My opinions aren't valuable. , Disqualifying the Positive,driving home mother talking something said something stupid didnt make sense called opinion arent valuable
+834,My partner broke up with me and slept with someone else No one cares about me , Overgeneralizing,partner broke slept someone else one care
+835,My girlfriend was distracted by other men at the gym. I'm not attractive enough. , Mind reading,girlfriend distracted men gym im attractive enough
+836,"My partner was visiting her daughter, who was having surgery.  I got annoyed with her on the phone because she was being distracted. I wanted her to pay attention and not interrupt me. ", Personalizing,partner visiting daughter surgery got annoyed phone distracted wanted pay attention interrupt
+837,I got in a fight with my roommate over the bathroom He's so damn inconsiderate , Labeling,got fight roommate bathroom he damn inconsiderate
+838,"A Roomate of mine stole my comptuer Someone I trusted stole something valuable of mine, I was extremely angry and wanted justice ", Emotional reasoning,roomate mine stole comptuer someone trusted stole something valuable mine extremely angry wanted justice
+839,My sister tried to commit suicide whilst at middle school I was not a good enough sister , Labeling,sister tried commit suicide whilst middle school good enough sister
+840,I came home to find an ambulance and firetruck in front of my house.  I feared something had happened to my old mom.  I ran in the house to find everything was fine and that the ambulance was for our neighbor.  I screamed at my sister for not texting me to tell me that the ambulance was not for my mom when she knew I was coming home at that time.  She told me it had just arrived and there was no time to let me know but I was still irrationally angry at her.  And instead of being happy that my mom was ok I was instead angry at my sister. my sister was thoughtless to not call me , Negative feeling or emotion,came home find ambulance firetruck front house feared something happened old mom ran house find everything fine ambulance neighbor screamed sister texting tell ambulance mom knew coming home time told arrived time let know still irrationally angry instead happy mom ok instead angry sister sister thoughtless call
+841,I got a parking ticket because my sister forgot to register for overnight parking in front of my house. I am responsible for her mistakes. , Blaming,got parking ticket sister forgot register overnight parking front house responsible mistake
+842,My spouse got a new gaming console and spends most of his free time playing video games. I am not good enough for him. , Labeling,spouse got new gaming console spends free time playing video game good enough
+843,I did badly in a writing contest I entered. I did not final. I am a bad writer. , All-or-nothing thinking,badly writing contest entered final bad writer
+844,"I am unable to write the essay My laptop is crap! If only I had a better laptop, I could have been better at writing ", Negative feeling or emotion,unable write essay laptop crap better laptop could better writing
+845,A student let me know they are struggling to grasp any of the concepts in class. Am I not explaining the material well? , All-or-nothing thinking,student let know struggling grasp concept class explaining material well
+846,I'm failing school I'm worthless , Comparing and Despairing,im failing school im worthless
+847,"I painted with my friends The color in their work is so much more vibrant, mine doesn't look this good ", Comparing and Despairing,painted friend color work much vibrant mine doesnt look good
+848,Working on a project with Python and have not gotten it to successfully run. Why is it still messed up? , Disqualifying the Positive,working project python gotten successfully run still messed
+849,I couldn't talk confidently with a stranger My parents are to blame for my lack of confidence , Blaming,couldnt talk confidently stranger parent blame lack confidence
+850,I saw my best friend kissing with my long time crush No one cares about me , Negative feeling or emotion,saw best friend kissing long time crush one care
+851,"A few days ago, I got angry at my husband's grandmother who lives next door for beeping her horn till I came out of the house and asking me to come to dinner. She doesn't respect me. ", Overgeneralizing,day ago got angry husband grandmother life next door beeping horn till came house asking come dinner doesnt respect
+852,My girlfriend said I was a taker when I said she did not emotionally support me before going to a movie last Saturday. My girlfriend will leave me. , Fortune telling,girlfriend said taker said emotionally support going movie last saturday girlfriend leave
+853,My boss pointed out an unintentional error in my work This work is a failure , All-or-nothing thinking,bos pointed unintentional error work work failure
+854,last week i went in for a job interview that i thought went very well but then i didnt get the job ill never be able to find a good job , Fortune telling,last week went job interview thought went well didnt get job ill never able find good job
+855,"Last week, my co-worker was invited to participate in a workshop and I was not. My co-worker is better than me. ", Comparing and Despairing,last week coworker invited participate workshop coworker better
+856,"My relationship ended out of nowhere, constantly stressed about my job, i ever feel like be worth it to another person or to my friends unless they need something. I don’t feel like I’m worth it. ", All-or-nothing thinking,relationship ended nowhere constantly stressed job ever feel like worth another person friend unless need something dont feel like im worth
+857,"My relationshi ended out of nowhere, constantly stressed about my job, i ever feel like be worth it to another person or to my friends unless they need something. I don’t feel like I’m worth it. ", Catastrophizing,relationshi ended nowhere constantly stressed job ever feel like worth another person friend unless need something dont feel like im worth
+858,I got bad grades in the exam My teacher is the reason I'm not doing well , Blaming,got bad grade exam teacher reason im well
+859,"I'm organizing a birthday party for my kid My niece's birthday party had twice the amount of people, our party will be rubbish in comparison ", Comparing and Despairing,im organizing birthday party kid niece birthday party twice amount people party rubbish comparison
+860,I am walking down the street in a new red jeans and a stranger looked at the jeans I should have never worn these jeans and stick to blue ones , Should statements,walking street new red jean stranger looked jean never worn jean stick blue one
+861,a girl i really liked would not go out on a date with me im not very attractive , All-or-nothing thinking,girl really liked would go date im attractive
+862,"I made a joke that fell flat in front of someone I just met, and that person left the room. People will never perceive me as acting naturally in social situations. ", Fortune telling,made joke fell flat front someone met person left room people never perceive acting naturally social situation
+863,The team captain on my gaming team approached me to try to remove me as the vice captain on the team citing that they didn't think I was doing enough to assist them. You hardly communicate what you need at all. How am I supposed to help? , Personalizing,team captain gaming team approached try remove vice captain team citing didnt think enough assist hardly communicate need supposed help
+864,"I keep pushing myself towards new things. I keep working, studying, socializing, exercising. I'm doing far more thab anyonr I know and I still go to sleep every night, hoping I won't wake up. I'm everything I can and I still feel like shit ", Disqualifying the Positive,keep pushing towards new thing keep working studying socializing exercising im far thab anyonr know still go sleep every night hoping wont wake im everything still feel like shit
+865,We are late to the dinner party The party is spoilt because of us , Personalizing,late dinner party party spoilt u
+866,"I am at a party where I only know the host and the stranger I don't know why I was invited, I don't know anyone here ", Catastrophizing,party know host stranger dont know invited dont know anyone
+867,Our marriage is lousy The reason my marriage is so lousy is because my husband is totally unreasonable , Blaming,marriage lousy reason marriage lousy husband totally unreasonable
+868,I gave a present to my friend on her birthday My present was much smaller in size than the others , Comparing and Despairing,gave present friend birthday present much smaller size others
+869,"My brother and I have been really getting into a lot of fights. This past weekend he blew up again because he thought I was talking over him, but he does it all the time to me. I was upset because of his temper tantrums again, it has been happening too much over the past few or more years. He is supposed to act like an adult now and he isn't. I can't really talk to him anymore because I fear that he will explode, although he does t anyways. I am so angry that he is such a hypocrite. He doesn't realize he is guilty of the same things he explodes about. ", Negative feeling or emotion,brother really getting lot fight past weekend blew thought talking time upset temper tantrum happening much past year supposed act like adult isnt cant really talk anymore fear explode although anyways angry hypocrite doesnt realize guilty thing explodes
+870,Last week I talked to a girl at a bar but was rejected by her I am undesirable , Labeling,last week talked girl bar rejected undesirable
+871,Nobody finds me attractive other then my boyfriend I am ugly , Negative feeling or emotion,nobody find attractive boyfriend ugly
+872,i posted myself on instagram lack of self-worth , Comparing and Despairing,posted instagram lack selfworth
+873,I sent my boyfriend several long text messages to which he responded with only one sentence. I'm worried I'm annoying my boyfriend. , Mind reading,sent boyfriend several long text message responded one sentence im worried im annoying boyfriend
+874,I keep failing at everything. I feel like I need to die to be happy. , Disqualifying the Positive,keep failing everything feel like need die happy
+875,They betrayed me. They made me suffer and made me sucidal and depressed and now they are enjoying their life. I want to take revenge , Blaming,betrayed made suffer made sucidal depressed enjoying life want take revenge
+876,Just being alive. Living is boring and not worth it. Nothing makes me happy or has ever done so. If only i was more selfish i could end it. Doing basic tasks without the threat of making my life even worse is a struggle. , Overgeneralizing,alive living boring worth nothing make happy ever done selfish could end basic task without threat making life even worse struggle
+877,"I feel as though I cannot do anything that is worth a damn. I dream of doing these wonderful things and yet, here I am on my overweight ass not doing anything. I'm mooching off my low-middle class parents with no regard to the future comsequences if I continue to stay at home doing nothing but sleeping and eating along with the occasional gaming or binging sessions. I have enormous self pity and self loathing for myself all the time. I fear of dying acconplishing nothing and yet don't care if I die at the same time. I also blame the world for making it impossible to live while also blaming myself. My life is hypocrisy incarnate. I'm worthless ", Should statements,feel though cannot anything worth damn dream wonderful thing yet overweight as anything im mooching lowmiddle class parent regard future comsequences continue stay home nothing sleeping eating along occasional gaming binging session enormous self pity self loathing time fear dying acconplishing nothing yet dont care die time also blame world making impossible live also blaming life hypocrisy incarnate im worthless
+878,I hate my life Killing myself , Disqualifying the Positive,hate life killing
+879,i am a ghost. i am dead. , Emotional reasoning,ghost dead
+880,My friends don't help me when I ask them to help with my suicidal thoughts. I want to end my life. , Blaming,friend dont help ask help suicidal thought want end life
+881,Depression that started a few years ago Suicidal thoughts , Negative feeling or emotion,depression started year ago suicidal thought
+882,"The only people I have left are my 2 friends. It doesn't feel like my family cares, or even anyone else. I dont want my death to cause my own friends to do the same because they're also going through their own problems Deciding if I want to keep living. ", Disqualifying the Positive,people left friend doesnt feel like family care even anyone else dont want death cause friend theyre also going problem deciding want keep living
+883,Everyday life is too hard and I hate it. I wish I wouldn’t wake up. , Disqualifying the Positive,everyday life hard hate wish wouldnt wake
+884,I gained weight I hate myself and im a fat pig , Disqualifying the Positive,gained weight hate im fat pig
+885,I think that I am fatter that everyone else but i am not I feel fat even though I have a strong build and I run alot , Disqualifying the Positive,think fatter everyone else feel fat even though strong build run alot
+886,When I feel ugly and hate my self I will go crazy if I don't control my racing thoughts , Fortune telling,feel ugly hate self go crazy dont control racing thought
+887,All of my relationship attempts have ended in failure I feel like I will never be loved in a romantic way because I am not very pretty , Labeling,relationship attempt ended failure feel like never loved romantic way pretty
+888,"My sister looking amazing and me looking heinous, people at school being toxic Suicidal thoughts, cutting, depression(I think), wanting to die sometimes, having mental/emotional break downs at least three times per week ,being lonely despite being surrounded by people,hating my body/appearance, acts of suicide eg: holding a knife up to my chest and slicing my throat lightly with scissors or knife, comparing myself to others in a really toxic and non realistic way. ", Negative feeling or emotion,sister looking amazing looking heinous people school toxic suicidal thought cutting depressioni think wanting die sometimes mentalemotional break down least three time per week lonely despite surrounded peoplehating bodyappearance act suicide eg holding knife chest slicing throat lightly scissors knife comparing others really toxic non realistic way
+889,I've made bad choices that could have harmed those close to me that I personally could never forgive. I don't deserve to get better. , Labeling,ive made bad choice could harmed close personally could never forgive dont deserve get better
+890,I get thoughts that make me do crazy things but they’re actually somewhat logical and I doubt if I should resist them at all I will go crazy if I don't control my racing thoughts , Labeling,get thought make crazy thing theyre actually somewhat logical doubt resist go crazy dont control racing thought
+891,Idk....drugs i guess Self harm and suicide , Negative feeling or emotion,idkdrugs guess self harm suicide
+892,I'm spending too much time in hateful online forums. As a woman I am inferior to men in every way. , Comparing and Despairing,im spending much time hateful online forum woman inferior men every way
+893,I have been struggling with a depressive episode and executive dysfunction. I haven't been keeping up with chores/responsibilities and hygiene as well as I should be. I can't do anything right. I am a disappointment. , Should statements,struggling depressive episode executive dysfunction havent keeping choresresponsibilities hygiene well cant anything right disappointment
+894,"I stayed up for too long, and engaged in behaviors that, while not unethical, were physically taxing and brought me shame. I hate myself. ", Should statements,stayed long engaged behavior unethical physically taxing brought shame hate
+895,I’m a drug addict I will go crazy if I don't control my racing thoughts , Fortune telling,im drug addict go crazy dont control racing thought
+896,Because I randomly get angry and it's uncontrolled. I feel suicidal , Emotional reasoning,randomly get angry uncontrolled feel suicidal
+897,secret drug use in my room My parents are judging me , Mind reading,secret drug use room parent judging
+898,It's usually after I come home from work and having felt a lot of social anxiety I want to comfort myself with sugar. It's like a great relief and the only happy point in my day. I have a constant need to eat an excessive amount of sugary sweets/desserts. When I try to eat more healthily for a period of time the need is always worse when I fall back into old unhealthy patterns. Eating balanced feels impossible. , Should statements,usually come home work felt lot social anxiety want comfort sugar like great relief happy point day constant need eat excessive amount sugary sweetsdesserts try eat healthily period time need always worse fall back old unhealthy pattern eating balanced feel impossible
+899,I was addicted to heroin. I don't have a job. , Disqualifying the Positive,addicted heroin dont job
+900,"Constant thinking and reminder of past proximity to childhood sexual assault and the inability to know my own history. This body is not mine, it does not belong to me. There is no connection between it and me. ", Emotional reasoning,constant thinking reminder past proximity childhood sexual assault inability know history body mine belong connection
+901,My father was being abusive to me I feel like people out there try to take advantage of me and also betray me . , Fortune telling,father abusive feel like people try take advantage also betray
+902,going through toys that reminded me of the time period that id been abused for Getting abused was my fault , Blaming,going toy reminded time period id abused getting abused fault
+903,"I was raped, abused and in pain I want to cease to exist as I am because I am emotionally and physically burnt out ", Negative feeling or emotion,raped abused pain want cease exist emotionally physically burnt
+904,Lost best friend murdered this time of year a few years back. I'm worthless , Emotional reasoning,lost best friend murdered time year year back im worthless
+905,I read an old journal entry about a time that I was abusive. I will never be in a healthy relationship. , Fortune telling,read old journal entry time abusive never healthy relationship
+906,i do alot of stuff at home so much work and when my dad comes home from work it never seems enough for him and he spanks/beats us if we didnt do enough I'll never be able to do anything , Blaming,alot stuff home much work dad come home work never seems enough spanksbeats u didnt enough ill never able anything
+907,"Fighting, arguing, anger outburst, feeling powerless Feeling guilty and trapped in an abusive relationship. It reflects on all aspects of my life. ", Overgeneralizing,fighting arguing anger outburst feeling powerless feeling guilty trapped abusive relationship reflects aspect life
+908,Someone pushed me and made me bleed No one cares about me , Overgeneralizing,someone pushed made bleed one care
+909,I didn't complete the tasks that I had written down earlier today. I'll never be able to do anything , Should statements,didnt complete task written earlier today ill never able anything
+910,I feel slow in progress compared to friends in same age ranges I'm a failure , Comparing and Despairing,feel slow progress compared friend age range im failure
+911,I really don't know I will go crazy if I don't control my racing thoughts , Negative feeling or emotion,really dont know go crazy dont control racing thought
+912,I accidentally fell asleep I will go crazy if I don't control my racing thoughts , Catastrophizing,accidentally fell asleep go crazy dont control racing thought
+913,I don’t do anything of value I'm a failure , Disqualifying the Positive,dont anything value im failure
+914,"There's no situation that leads to this. It's how I live everyday I feel uncomfortable, I have repeating thoughts, I'm always tired, and I feel like I can't think logically and I'm numb. ", Negative feeling or emotion,there situation lead live everyday feel uncomfortable repeating thought im always tired feel like cant think logically im numb
+915,I failed in everything I'm a failure , Labeling,failed everything im failure
+916,I need to sell my home I am a financial failure , Disqualifying the Positive,need sell home financial failure
+917,"Not having made rent and having to borrow money from my already in debt mother. I am a failure, I have no friends and am a coward, who loses at everything and is still a virgin. Fuck I suck so much, its embarrassing. ", Labeling,made rent borrow money already debt mother failure friend coward loses everything still virgin fuck suck much embarrassing
+918,I’m a loser I hate myself and I’m ready to die , Labeling,im loser hate im ready die
+919,People around me do not need my presence I'm worthless , Emotional reasoning,people around need presence im worthless
+920,"I realize that I still don’t have anyone who I could spend time with, without having a really good excuse for it I’ve had many possibilities to make friendships, but no matter how I give myself to other people, they always settle for someone else. I’ve been used as an emotion trash bucket for other people’s problems and emotions without getting my own turn to share my worries off my shoulders. I’ve never had a friend who I could talk to, who could be there for me when I need them. I can’t help but just think that I’m somehow socially incapable or simply too difficult of a personality to be able to get and maintain friends ", Overgeneralizing,realize still dont anyone could spend time without really good excuse ive many possibility make friendship matter give people always settle someone else ive used emotion trash bucket people problem emotion without getting turn share worry shoulder ive never friend could talk could need cant help think im somehow socially incapable simply difficult personality able get maintain friend
+921,People are always bullying me Everyone hates me , Overgeneralizing,people always bullying everyone hate
