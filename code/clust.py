@@ -1,3 +1,15 @@
+import random
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import umap
+import hdbscan
+from sklearn.cluster import KMeans
+from sklearn.metrics import silhouette_score
+from scipy.spatial.distance import cdist
+from hyperopt import fmin, tpe, space_eval, Trials, STATUS_OK, partial
+from sklearn.metrics import adjusted_rand_score, normalized_mutual_info_score
+
 def plot_kmeans(embeddings, k_range):
     '''
     Plot SSE and silhouette score for kmeans clustering for a range of k values
@@ -85,7 +97,7 @@ def random_search(embeddings, space, num_evals):
     
     for i in range(num_evals):
         min_cluster_size = random.choice(space['min_cluster_size'])
-        min_samples = random.choice(space['min_samples'])
+        min_samples = None
         
         clusters_hdbscan = (hdbscan.HDBSCAN(min_cluster_size=min_cluster_size,
                                            min_samples = min_samples,
@@ -153,7 +165,9 @@ def score_clusters(clusters, prob_threshold = 0.05):
     
     return label_count, cost
 
+
 def random_search(embeddings, space, num_evals):
+
     """
     Randomly search parameter space of clustering pipeline
 
@@ -169,7 +183,7 @@ def random_search(embeddings, space, num_evals):
                    performed, including run_id, parameters used, label
                    count, and cost
     """
-    
+
     results = []
     
     for i in range(num_evals):
@@ -178,7 +192,7 @@ def random_search(embeddings, space, num_evals):
         min_cluster_size = random.choice(space['min_cluster_size'])
         random_state = space['random_state']
         
-        clusters = generate_clusters(embeddings, 
+        clusters = generate_clusters(embeddings,
                                      n_neighbors=n_neighbors, 
                                      n_components=n_components, 
                                      min_cluster_size=min_cluster_size, 
@@ -350,7 +364,7 @@ def generate_clusters(message_embeddings,
                             .fit_transform(message_embeddings))
 
     clusters = hdbscan.HDBSCAN(min_cluster_size = min_cluster_size, 
-                               min_samples = min_samples,
+                               min_samples = None,
                                metric='euclidean', 
                                gen_min_span_tree=True,
                                cluster_selection_method='eom').fit(umap_embeddings)
