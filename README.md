@@ -51,10 +51,10 @@ bash setup.sh
 ├── README.md
 ├── requirements.txt
 ```
-
+https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/aglom_All-Distilroberta-v1.html
 ## Results
 To display the results of the example functionality of the package using the danish songs, follow the following links:
-- [Cluster](http://htmlpreview.github.io/?https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/cluster_manual2_all-MiniLM-L12-v2.html)
+- [Cluster](http://htmlpreview.github.io/https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/aglom_All-Distilroberta-v1.html)
 
 These can also be found in the `examples` folder of the repository.
 
