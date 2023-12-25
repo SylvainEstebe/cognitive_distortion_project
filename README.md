@@ -54,7 +54,10 @@ bash setup.sh
 https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/aglom_All-Distilroberta-v1.html
 ## Results
 To display the results of the example functionality of the package using the danish songs, follow the following links:
-- [Cluster](http://htmlpreview.github.io/?https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/aglom_All-Distilroberta-v1.html)
+- [k-mean](http://htmlpreview.github.io/?https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/k_mean_All-Distilroberta-v1.html)
+- [aglomerative](http://htmlpreview.github.io/?https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/aglom_All-Distilroberta-v1.html)
+- [hdbscan](http://htmlpreview.github.io/https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/hdbscan_manualAll-Distilroberta-v1.html)
+- [embedding](http://htmlpreview.github.io/https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/embeddingall-MiniLM-L12-v2.html)
 
 These can also be found in the `examples` folder of the repository.
 
