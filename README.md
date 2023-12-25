@@ -6,11 +6,7 @@ This repository holds the code for the project for Natural Language Processing (
 
 ### ⏭ Workflows
 
-### 🗂 Bibliography
-
-### ⏭ Workflows
-
-### 🗂 Assets
+image
 
 ## Description of the data
 To demonstrate the functionality of the package as collection of lyrics from danish songs from 10 artists were scraped from Genius.com. Up to 5 songs from each artist were scraped, but only the danish songs were saved. 
@@ -39,10 +35,26 @@ bash setup.sh
 
 ## Repository structure
 ```
-```
+├── code 
+│   ├── 
+│   ├── 
+├── env                                         <- Not included in repo
+├── data
+│   ├── src
+│   ├── src
+├── export                                   
+│   ├──
+│   ├── 
+│   ├── 
+│   └── 
+├── .gitignore
+├── README.md
+├── requirements.txt
 
 ## Results
 To display the results of the example functionality of the package using the danish songs, follow the following links:
 - [Cluster](http://htmlpreview.github.io/?https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/cluster_manual2_all-MiniLM-L12-v2.html)
 
 These can also be found in the `examples` folder of the repository.
+
+### 🗂 Bibliography
