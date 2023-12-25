@@ -50,6 +50,7 @@ bash setup.sh
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
+```
 
 ## Results
 To display the results of the example functionality of the package using the danish songs, follow the following links:
