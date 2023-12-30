@@ -4,7 +4,7 @@ This repository holds the code for the project for Natural Language Processing (
 
 ### ⏭ Workflows
 
-![image](https://github.com/SylvainEstebe/cognitive_distortion_project/assets/75991758/e101cc02-f95c-46ee-94cf-69fa1af4eca3 | width=100))
+![image](https://github.com/SylvainEstebe/cognitive_distortion_project/assets/75991758/e101cc02-f95c-46ee-94cf-69fa1af4eca3 | width=100)
 
 ## Description of the data
 To demonstrate the functionality of the package as collection of lyrics from danish songs from 10 artists were scraped from Genius.com. Up to 5 songs from each artist were scraped, but only the danish songs were saved. 
