@@ -3,9 +3,13 @@ import plotly.graph_objects as go
 import pandas as pd
 import plotly.express as px
 
-df = pd.read_csv("/Users/sylvainestebe/Code/nlp_project/cognitive_distortion_project/data/corpus_kmean.csv")
-df2 = pd.read_csv("/Users/sylvainestebe/Code/nlp_project/cognitive_distortion_project/data/corpus_aglom.csv")
-df3 = pd.read_csv("/Users/sylvainestebe/Code/nlp_project/cognitive_distortion_project/data/corpus_hdbscan.csv")
+# df = pd.read_csv("/Users/sylvainestebe/Code/nlp_project/cognitive_distortion_project/data/corpus_kmean.csv")
+# df2 = pd.read_csv("/Users/sylvainestebe/Code/nlp_project/cognitive_distortion_project/data/corpus_aglom.csv")
+# df3 = pd.read_csv("/Users/sylvainestebe/Code/nlp_project/cognitive_distortion_project/data/corpus_hdbscan.csv")
+
+df = pd.read_csv("https://raw.githubusercontent.com/SylvainEstebe/cognitive_distortion_project/main/data/corpus_kmean.csv")
+df2 = pd.read_csv("https://raw.githubusercontent.com/SylvainEstebe/cognitive_distortion_project/main/data/corpus_aglom.csv")
+df3 = pd.read_csv("https://raw.githubusercontent.com/SylvainEstebe/cognitive_distortion_project/main/data/corpus_hdbscan.csv")
 
 # specify the model
 model = 'all-mpnet-base-v2'
