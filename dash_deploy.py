@@ -8,7 +8,7 @@ import plotly.express as px
 # df3 = pd.read_csv("/Users/sylvainestebe/Code/nlp_project/cognitive_distortion_project/data/corpus_hdbscan.csv")
 
 df = pd.read_csv("https://raw.githubusercontent.com/SylvainEstebe/cognitive_distortion_project/main/data/corpus_kmean.csv")
-df2 = pd.read_csv("https://raw.githubusercontent.com/SylvainEstebe/cognitive_distortion_project/main/data/corpus_aglom.csv")
+df2 = pd.read_csv("https://raw.githubusercontent.com/SylvainEstebe/cognitive_distortion_project/main/data/corpus_hdbscan_bayesian_optimisation.csv")
 df3 = pd.read_csv("https://raw.githubusercontent.com/SylvainEstebe/cognitive_distortion_project/main/data/corpus_hdbscan.csv")
 
 # specify the model
