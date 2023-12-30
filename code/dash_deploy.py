@@ -14,7 +14,7 @@ model_3 = 'All-Distilroberta-v1'
 models = [model,model_2,model_3]
 
 app = Dash(__name__)
-
+server = app.server
 app.layout = html.Div(
     [
         html.H4("Embedding of Cognitive Distortion"),
