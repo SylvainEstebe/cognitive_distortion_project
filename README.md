@@ -2,11 +2,9 @@
 
 This repository holds the code for the project for Natural Language Processing (S2023). It contains a script called data-driven-taxonomy which allows for interactive exploration of a cluster of negative thought.
 
-## 📋 Review
-
 ### ⏭ Workflows
 
-image
+![image](https://github.com/SylvainEstebe/cognitive_distortion_project/assets/75991758/e101cc02-f95c-46ee-94cf-69fa1af4eca3)
 
 ## Description of the data
 To demonstrate the functionality of the package as collection of lyrics from danish songs from 10 artists were scraped from Genius.com. Up to 5 songs from each artist were scraped, but only the danish songs were saved. 
@@ -51,10 +49,13 @@ bash setup.sh
 ├── README.md
 ├── requirements.txt
 ```
-
+https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/aglom_All-Distilroberta-v1.html
 ## Results
 To display the results of the example functionality of the package using the danish songs, follow the following links:
-- [Cluster](http://htmlpreview.github.io/?https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/cluster_manual2_all-MiniLM-L12-v2.html)
+- [k-mean](http://htmlpreview.github.io/?https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/k_mean_All-Distilroberta-v1.html)
+- [aglomerative](http://htmlpreview.github.io/?https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/aglom_All-Distilroberta-v1.html)
+- [hdbscan](http://htmlpreview.github.io/?https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/hdbscan_manualAll-Distilroberta-v1.html)
+- [embedding](http://htmlpreview.github.io/?https://github.com/SylvainEstebe/cognitive_distortion_project/blob/main/export/embeddingall-MiniLM-L12-v2.html)
 
 These can also be found in the `examples` folder of the repository.
 
