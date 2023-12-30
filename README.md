@@ -1,4 +1,4 @@
-🪐 NLP Project: Data-Driven taxonomy for cognitive distortion
+# 🪐 NLP Project: Data-Driven taxonomy for cognitive distortion
 
 This repository holds the code for the project for Natural Language Processing (S2023). It contains a script called data-driven-taxonomy which allows for interactive exploration of a cluster of negative thought.
 
