@@ -9,7 +9,6 @@ import plotly.express as px
 
 df = pd.read_csv("https://raw.githubusercontent.com/SylvainEstebe/cognitive_distortion_project/main/data/corpus_kmean.csv")
 df2 = pd.read_csv("https://raw.githubusercontent.com/SylvainEstebe/cognitive_distortion_project/main/data/corpus_hdbscan_bayesian_optimisation.csv")
-df3 = pd.read_csv("https://raw.githubusercontent.com/SylvainEstebe/cognitive_distortion_project/main/data/corpus_hdbscan.csv")
 
 # specify the model
 model = 'all-mpnet-base-v2'
@@ -25,7 +24,7 @@ app.layout = html.Div(
         html.P("Select a model:"),
         dcc.RadioItems(
             id="selection",
-            options=["K-mean 1","K-mean 2","K-mean 3","HDBSCAN 1 (Bayesian optimization)","HDBSCAN 2 (Bayesian optimization)","HDBSCAN 3 (Bayesian optimization)","HDBSCAN 1 (manual)","HDBSCAN 2 (manual)","HDBSCAN 3 (manual)"],
+            options=["K-mean 1","K-mean 2","K-mean 3","HDBSCAN 1 (Bayesian optimization)","HDBSCAN 2 (Bayesian optimization)","HDBSCAN 3 (Bayesian optimization)"],
             value="K-mean 1",
         ),
         dcc.Loading(dcc.Graph(id="graph"), type="cube"),
@@ -84,30 +83,6 @@ def display_animated_graph(selection):
         x=df2[f"{model_3} x"],
         y=df2[f"{model_3} y"],
         color=  df2[f"{model_3} hdbscan_bayesian_optimisation"].astype(str),
-        hover_data= 'thought',
-        title= f'Cluster of cognitive distortion using {model_3} model'
-        ),
-        "HDBSCAN 1 (manual)": px.scatter(
-        df3,
-        x=df3[f"{model} x"],
-        y=df3[f"{model} y"],
-        color=  df3[f"{model} hdbscan_manual"].astype(str),
-        hover_data= 'thought',
-        title= f'Cluster of cognitive distortion using {model} model'
-        ),
-        "HDBSCAN 2 (manual)": px.scatter(
-        df3,
-        x=df3[f"{model_2} x"],
-        y=df3[f"{model_2} y"],
-        color=  df3[f"{model_2} hdbscan_manual"].astype(str),
-        hover_data= 'thought',
-        title= f'Cluster of cognitive distortion using {model_2} model'
-        ),
-        "HDBSCAN 3 (manual)": px.scatter(
-        df3,
-        x=df3[f"{model_3} x"],
-        y=df3[f"{model_3} y"],
-        color=  df3[f"{model_3} hdbscan_manual"].astype(str),
         hover_data= 'thought',
         title= f'Cluster of cognitive distortion using {model_3} model'
         )

@@ -10,3 +10,18 @@ gensim==4.3.2
 torch==2.1.0
 gunicorn==21.0.1
 dash == 2.14.2
+pandas==1.3.3
+numpy==1.21.2
+sentence-transformers
+umap-learn
+scikit-learn
+matplotlib
+hdbscan
+hyperopt
+plaintext
+dash
+plotly
+pandas
+seaborn
+nltk
+re
