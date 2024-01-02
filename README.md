@@ -4,8 +4,8 @@ This repository holds the code for the project for Natural Language Processing (
 You can use the interactive exploration of a cluster of negative thoughts on this dashboard: https://cognitive-distortion-d.onrender.com/
 
 ### ⏭ Workflows
+![Texte alternatif](https://github.com/SylvainEstebe/cognitive_distortion_project/raw/main/export/NLP%20-%20Share%20(1).jpeg)
 
-![alt text](https://github.com/SylvainEstebe/cognitive_distortion_project/tree/main/export#:~:text=NLP%20%2D%20Share%20(1).jpeg?raw=true)
 
 
 ## Description of the dataset
