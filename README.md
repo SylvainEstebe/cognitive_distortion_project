@@ -1,4 +1,4 @@
-# 🪐 NLP Project: Data-Driven taxonomy for cognitive distortion
+# NLP Project: Data-Driven taxonomy for cognitive distortion
 
 This repository holds the code for the project for Natural Language Processing (S2023). It contains the script of the analysis.
 
@@ -25,7 +25,8 @@ To reproduce the results , follow the steps below. All terminal commands should 
 ```
 bash setup.sh
 ```
-Think about replacing the different path with your own repertoire, which contains "reframing_dataset.csv" and "thinking_traps.jsonl" 
+Think about replacing the different path with your own repertoire, which contains "reframing_dataset.csv" and "thinking_traps.jsonl"
+
 3. Run the `preprocessing.ipybn` script to: 
     - merge the two dataset
     - some preprocessing
