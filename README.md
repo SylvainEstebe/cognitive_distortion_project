@@ -5,7 +5,8 @@ You can use the interactive exploration of a cluster of negative thoughts on thi
 
 ### ⏭ Workflows
 
-![image(https://github.com/SylvainEstebe/cognitive_distortion_project/tree/main/export#:~:text=NLP%20%2D%20Share%20(1).jpeg)
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/SylvainEstebe/cognitive_distortion_project/tree/main/export#:~:text=NLP%20%2D%20Share%20(1).jpeg)?raw=true)
+
 
 ## Description of the dataset
 
