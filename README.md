@@ -1,12 +1,9 @@
 # 🪐 NLP Project: Data-Driven taxonomy for cognitive distortion
 
-This repository holds the code for the project for Natural Language Processing (S2023). It contains the script of analysis.
-You can use the interactive exploration of a cluster of negative thoughts on this dashboard: https://cognitive-distortion-d.onrender.com/
+This repository holds the code for the project for Natural Language Processing (S2023). It contains the script of the analysis.
 
 ### ⏭ Workflows
 ![Texte alternatif](https://github.com/SylvainEstebe/cognitive_distortion_project/raw/main/export/NLP%20-%20Share%20(1).jpeg)
-
-
 
 ## Description of the dataset
 
@@ -28,11 +25,21 @@ To reproduce the results , follow the steps below. All terminal commands should 
 ```
 bash setup.sh
 ```
-3. Run the `analysis.ipybn` script to: 
-    - see the analysis with k-mean and hdbscan clustering
-    - re-export the data if needed
+Think about replacing the different path with your own repertoire, which contains "reframing_dataset.csv" and "thinking_traps.jsonl" 
+3. Run the `preprocessing.ipybn` script to: 
+    - merge the two dataset
+    - some preprocessing
+4. Run the `analysis.ipybn` script to: 
+    - Do the embedding with sentence-transformer
+    - reduction of dimension with UMAP
+    - Clustering with k-mean and hdbscan
+    - export of results
 4. Run the `plot.ipybn` script to:
        - plot the different clusters
+5. Run the `label.ipybn` script to:
+       - generate label
+6. Run the `dashboard.ipybn` script to:
+       - generate dashboard
 
 
 ## Repository structure
@@ -75,5 +82,3 @@ To display the results of the exploratory approach of cognitive distortion follo
 - [dashboard](https://cognitive-distortion-d.onrender.com/)
 
 These can also be found in the `export` folder of the repository.
-
-### 🗂 Bibliography
